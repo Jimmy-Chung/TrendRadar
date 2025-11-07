@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T17:58:04.764709+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2025-11-07T18:22:56.869990+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -30,6 +30,22 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            20,
+            9,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时13分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普重申不会出席G20峰会",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
           "source": "百度热搜",
@@ -42,21 +58,6 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            20,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时13分 ~ 17时22分]"
-        },
-        {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
@@ -65,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时58分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 18时22分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -93,6 +94,18 @@
           "time_info": "[11时13分 ~ 16时27分]"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 18时22分]"
+        },
+        {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
           "url": "https://www.cls.cn/detail/2193664",
           "source": "财联社热门",
@@ -105,18 +118,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时13分 ~ 16时27分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 17时58分]"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -831,6 +832,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "特朗普官宣降价 药企高管当场晕倒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
           "url": "https://flash.jin10.com/detail/20251107025737098800",
           "source": "金十数据",
@@ -1018,8 +1030,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 17时58分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时22分]"
         },
         {
           "title": "何小鹏再回应机器人里藏真人质疑",
@@ -1093,6 +1105,19 @@
           "time_info": "[12时24分 ~ 16时27分]"
         },
         {
+          "title": "IRON“猫步”惊艳市场 何小鹏“两度自证”击碎质疑 国产机器人涌现时刻到了？",
+          "url": "https://www.cls.cn/detail/2193758",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 18时22分]"
+        },
+        {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
@@ -1105,18 +1130,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 03时17分]"
-        },
-        {
-          "title": "IRON“猫步”惊艳市场 何小鹏“两度自证”击碎质疑 国产机器人涌现时刻到了？",
-          "url": "https://www.cls.cn/detail/2193758",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 17时58分]"
         },
         {
           "title": "小鹏发布机器人IRON后股价拉升",
@@ -1227,7 +1240,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -1268,6 +1281,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时29分 ~ 17时22分]"
+        },
+        {
+          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
+          "url": "https://flash.jin10.com/detail/20251107180537622800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1485,11 +1509,12 @@
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 17时58分]"
+          "appearance_count": 12,
+          "time_info": "[11时13分 ~ 18时22分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1685,8 +1710,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 17时58分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 18时22分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1770,11 +1795,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时19分 ~ 17时58分]"
+          "appearance_count": 15,
+          "time_info": "[06时19分 ~ 18时22分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
