@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T16:11:53.913816+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-08T16:25:11.402533+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -26,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         },
         {
           "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
@@ -37,8 +48,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         }
       ]
     },
@@ -54,19 +65,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         },
         {
           "title": "小鹏机器人火了 前景乐观吗",
           "url": "https://www.toutiao.com/trending/7570178447754923570/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -76,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时25分]"
         }
       ]
     },
@@ -93,8 +105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -104,8 +116,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         }
       ]
     },
@@ -138,8 +150,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         }
       ]
     },
@@ -155,8 +167,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 16时25分]"
         }
       ]
     }
