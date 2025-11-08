@@ -75,7 +75,7 @@ platforms:
   - id: "cls-hot"
     name: "财联社热门"
   - id: "cls-depth"
-    name: "财联社深度“
+    name: "财联社深度"
   - id: "ifeng"
     name: "凤凰网"
   - id: "weibo"
