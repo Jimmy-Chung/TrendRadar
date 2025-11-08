@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T20:38:32.709244+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2025-11-08T21:24:43.316758+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时11分 ~ 20时38分]"
+          "appearance_count": 10,
+          "time_info": "[16时11分 ~ 21时24分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -44,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时38分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时24分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -53,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时24分]"
         },
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -99,11 +101,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 20时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 21时24分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -112,9 +115,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时24分]"
         }
       ]
     },
@@ -131,11 +134,12 @@
             14,
             10,
             20,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时11分 ~ 20时38分]"
+          "appearance_count": 10,
+          "time_info": "[16时11分 ~ 21时24分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -145,11 +149,12 @@
             21,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时11分 ~ 20时38分]"
+          "appearance_count": 7,
+          "time_info": "[16时11分 ~ 21时24分]"
         },
         {
           "title": "小鹏机器人火了 前景乐观吗",
@@ -177,8 +182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时11分 ~ 20时38分]"
+          "appearance_count": 10,
+          "time_info": "[16时11分 ~ 21时24分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -223,7 +228,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
@@ -241,11 +246,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时38分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时24分]"
         }
       ]
     },
@@ -262,11 +268,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时11分 ~ 20时38分]"
+          "appearance_count": 10,
+          "time_info": "[16时11分 ~ 21时24分]"
         }
       ]
     },
