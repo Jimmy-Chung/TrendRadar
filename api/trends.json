@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T19:16:02.812306+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2025-11-08T20:38:32.709244+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 20时38分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -28,22 +28,36 @@
             3,
             12,
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时24分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 20时38分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 20时38分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时38分]"
         },
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -55,17 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时11分 ~ 16时25分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
-          "url": "https://flash.jin10.com/detail/20251108183318165800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "特朗普被问急眼了怒喷记者",
@@ -95,11 +98,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时38分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
@@ -115,11 +130,12 @@
             5,
             14,
             10,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 20时38分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -128,11 +144,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时11分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时11分 ~ 20时38分]"
         },
         {
           "title": "小鹏机器人火了 前景乐观吗",
@@ -160,8 +177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 20时38分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -169,11 +186,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 20时38分]"
         }
       ]
     },
@@ -195,6 +213,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "gemini 毒奶",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D5%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26stream_entry_id%3D31%26dgr%3D0%26pos%3D5%26realpos%3D5%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1762605200%26pre_seqid%3D176260520013403328592103&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -205,11 +240,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 20时38分]"
         }
       ]
     },
@@ -225,11 +261,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 20时38分]"
         }
       ]
     },
