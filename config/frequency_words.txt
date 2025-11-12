@@ -34,6 +34,9 @@ AI
 CoreWeave
 IREN
 
+阿里巴巴
+美团
+
 NAND
 HBM
 内存
