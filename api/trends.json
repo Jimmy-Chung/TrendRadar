@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:34:01.281204+08:00",
-  "total_titles_processed": 1965,
+  "generated_at": "2025-11-13T22:20:39.935232+08:00",
+  "total_titles_processed": 2052,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时21分 ~ 21时34分]"
+          "appearance_count": 25,
+          "time_info": "[01时21分 ~ 22时20分]"
         },
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -617,7 +617,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -845,6 +845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -860,8 +871,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时34分]"
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时20分]"
         },
         {
           "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
@@ -873,8 +884,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 21时34分]"
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -887,6 +898,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时27分 ~ 18时24分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -911,18 +934,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 21时34分]"
         },
         {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
@@ -1300,6 +1311,48 @@
       ]
     },
     {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
+          "url": "https://www.cls.cn/detail/2198372",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时29分]"
+        },
+        {
+          "title": "存储龙头计划提高NAND价格并削减产量 存储涨价行情有望贯穿26年全年",
+          "url": "https://www.cls.cn/detail/2199032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 17时23分]"
+        },
+        {
+          "title": "如何看待 sudo-rs 近日曝出多个严重漏洞？这是否说明过于依赖内存安全可能导致更多漏洞？",
+          "url": "https://www.zhihu.com/question/1972054675114169154",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1360,37 +1413,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
-          "url": "https://www.cls.cn/detail/2198372",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时29分]"
-        },
-        {
-          "title": "存储龙头计划提高NAND价格并削减产量 存储涨价行情有望贯穿26年全年",
-          "url": "https://www.cls.cn/detail/2199032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 17时23分]"
         }
       ]
     },
