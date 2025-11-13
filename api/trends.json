@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T09:29:30.070387+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-11-13T11:15:41.459325+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 09时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 11时15分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -47,6 +47,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时21分]"
+        },
+        {
+          "title": "特朗普罕见为中国留学生辩护",
+          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时15分]"
         },
         {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
@@ -233,17 +245,6 @@
           "time_info": "[02时28分 ~ 02时29分]"
         },
         {
-          "title": "特朗普罕见为中国留学生辩护",
-          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
           "url": "https://flash.jin10.com/detail/20251113032506975800",
           "source": "金十数据",
@@ -253,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普签署法案 美国政府停摆宣告结束",
+          "url": "https://flash.jin10.com/detail/20251113104453356800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普在“爱泼斯坦事件”中没有做错任何事。",
@@ -305,7 +317,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -316,7 +328,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -371,8 +383,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 11时15分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -404,7 +416,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -479,7 +491,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -491,17 +503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.1",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -528,6 +529,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时15分]"
+        },
+        {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
           "url": "https://flash.jin10.com/detail/20251113031402005800",
           "source": "金十数据",
@@ -537,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     },
@@ -576,6 +600,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月13日（周四）上海金早盘价为957.96元/克，较国际金价(958.64元/克)，低0.68元/克",
+          "url": "https://flash.jin10.com/detail/20251113110141972800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "渣打银行：2026年第一季度金价存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251113063512644800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -630,11 +693,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时15分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -652,30 +716,30 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "NAND HBM 内存",
       "match_count": 2,
       "titles": [
         {
-          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
-          "url": "https://wallstreetcn.com/livenews/3003663",
-          "source": "华尔街见闻-快讯",
+          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
+          "url": "https://www.cls.cn/detail/2198372",
+          "source": "财联社热门",
           "ranks": [
-            11
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
-          "title": "渣打银行：2026年第一季度金价存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20251113063512644800",
-          "source": "金十数据",
+          "title": "存储龙头计划提高NAND价格并削减产量 存储涨价行情有望贯穿26年全年",
+          "url": "https://www.cls.cn/detail/2199032",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "11时15分"
         }
       ]
     },
@@ -707,26 +771,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
-          "url": "https://www.cls.cn/detail/2198372",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时29分]"
         }
       ]
     }
