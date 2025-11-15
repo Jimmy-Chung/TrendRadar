@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T20:36:40.625874+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-11-15T21:25:13.683054+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,18 @@
           "time_info": "[15时17分 ~ 20时36分]"
         },
         {
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 21时25分]"
+        },
+        {
           "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
           "url": "https://flash.jin10.com/detail/20251115094016472800",
           "source": "金十数据",
@@ -110,18 +122,6 @@
           "time_info": "[09时25分 ~ 14时28分]"
         },
         {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 20时36分]"
-        },
-        {
           "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
           "url": "https://flash.jin10.com/detail/20251115141405832800",
           "source": "金十数据",
@@ -149,6 +149,19 @@
           "time_info": "[04时22分 ~ 09时25分]"
         },
         {
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时25分]"
+        },
+        {
           "title": "特朗普称对委内瑞拉差不多下定决心",
           "url": "https://flash.jin10.com/detail/20251115151858037800",
           "source": "金十数据",
@@ -161,6 +174,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时23分 ~ 19时15分]"
+        },
+        {
+          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
+          "url": "https://flash.jin10.com/detail/20251115180815888800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 21时25分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
+          "url": "https://flash.jin10.com/detail/20251115180113833800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 21时25分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
@@ -202,16 +243,30 @@
           "time_info": "[04时22分 ~ 07时18分]"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
+          "url": "https://flash.jin10.com/detail/20251115190723061800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            4
+            2,
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时25分]"
+        },
+        {
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时25分]"
         },
         {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
@@ -224,6 +279,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时25分]"
         },
         {
           "title": "特朗普抵制G20峰会 南非总统硬刚",
@@ -239,44 +307,6 @@
           "time_info": "[16时23分 ~ 18时19分]"
         },
         {
-          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
-          "url": "https://flash.jin10.com/detail/20251115180815888800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时36分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
-          "url": "https://flash.jin10.com/detail/20251115180113833800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时36分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
-          "url": "https://flash.jin10.com/detail/20251115190723061800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
-        },
-        {
           "title": "特朗普政府下调美国大豆出口前景预测",
           "url": "https://wallstreetcn.com/livenews/3005036",
           "source": "华尔街见闻-快讯",
@@ -287,18 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
-        },
-        {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
         },
         {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
@@ -398,16 +416,16 @@
           "time_info": "[02时28分 ~ 03时16分]"
         },
         {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
+          "title": "专家谈特朗普重返白宫首次对台军售",
+          "url": "https://www.toutiao.com/trending/7571928334733541430/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            18
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时25分]"
         },
         {
           "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
@@ -544,17 +562,6 @@
           "time_info": "09时25分"
         },
         {
-          "title": "专家谈特朗普重返白宫首次对台军售",
-          "url": "https://www.toutiao.com/trending/7571928334733541430/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
           "title": "白宫官员：美国总统特朗普将出席明年的达沃斯论坛。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3004925",
           "source": "华尔街见闻-快讯",
@@ -607,8 +614,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 20时36分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 21时25分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -621,8 +628,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时18分 ~ 20时36分]"
+          "appearance_count": 17,
+          "time_info": "[07时18分 ~ 21时25分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -631,11 +638,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时07分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 21时25分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -822,8 +830,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时07分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 21时25分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -839,8 +847,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时25分 ~ 20时36分]"
+          "appearance_count": 16,
+          "time_info": "[09时25分 ~ 21时25分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -1061,7 +1069,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1092,8 +1100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时25分 ~ 20时36分]"
+          "appearance_count": 16,
+          "time_info": "[09时25分 ~ 21时25分]"
         },
         {
           "title": "三季度几乎满产！中芯国际赵海军：四季度仍供不应求，预计全年收入超90亿美元，但内存涨价太多了",
