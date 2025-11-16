@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T18:20:09.112005+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-11-16T19:15:31.324256+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -140,11 +140,23 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时15分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时41分 ~ 12时26分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -203,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
+          "url": "https://flash.jin10.com/detail/20251116182155589800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -232,11 +244,12 @@
             13,
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 18时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 19时15分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -278,11 +291,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 18时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 19时15分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -304,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时15分]"
         }
       ]
     },
@@ -323,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时15分]"
         },
         {
           "title": "白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）",
@@ -332,11 +346,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时15分]"
         }
       ]
     },
