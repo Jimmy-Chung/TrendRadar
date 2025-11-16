@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T05:17:16.309275+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-11-17T06:18:30.849474+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             10,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -28,8 +29,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
+        },
+        {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
         },
         {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
@@ -39,18 +52,6 @@
             11,
             14,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
-        },
-        {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -86,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -98,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 06时18分]"
         }
       ]
     },
@@ -112,11 +113,12 @@
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
         }
       ]
     },
@@ -132,8 +134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
         }
       ]
     },
@@ -149,11 +151,12 @@
             30,
             23,
             19,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时18分]"
         }
       ]
     }
