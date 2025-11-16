@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:36:29.016789+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2025-11-16T21:25:01.839605+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -92,6 +92,30 @@
           "time_info": "[00时22分 ~ 06时15分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 21时25分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 21时25分]"
+        },
+        {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
           "url": "https://flash.jin10.com/detail/20251116125811596800",
           "source": "金十数据",
@@ -121,19 +145,6 @@
           "time_info": "[12时25分 ~ 15时18分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 20时36分]"
-        },
-        {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
           "url": "https://wallstreetcn.com/livenews/3005256",
           "source": "华尔街见闻-快讯",
@@ -148,15 +159,17 @@
           "time_info": "[13时19分 ~ 16时24分]"
         },
         {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
+          "url": "https://flash.jin10.com/detail/20251116182155589800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8,
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时25分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -182,18 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 16时24分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
-          "url": "https://flash.jin10.com/detail/20251116182155589800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时36分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -249,8 +250,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 20时36分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 21时25分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -300,17 +301,6 @@
           "time_info": "[00时22分 ~ 19时15分]"
         },
         {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时16分]"
-        },
-        {
           "title": "Gemini3.0能碾压GPT-5.1吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
@@ -320,8 +310,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 21时25分]"
+        },
+        {
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时16分]"
         }
       ]
     },
@@ -339,8 +340,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 21时25分]"
         },
         {
           "title": "白宫深夜盯上阿里巴巴？一切或源于“千问恐慌”（QwenPanic）",
