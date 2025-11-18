@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T17:23:04.971500+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2025-11-18T18:23:52.114779+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -603,8 +603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时13分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[11时13分 ~ 18时23分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -613,11 +613,12 @@
           "ranks": [
             10,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -650,11 +651,12 @@
           "url": "https://wallstreetcn.com/livenews/3006403",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时23分]"
         },
         {
           "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
@@ -998,8 +1000,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 18时23分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -1050,11 +1052,12 @@
           "url": "https://wallstreetcn.com/articles/3759603",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时23分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
