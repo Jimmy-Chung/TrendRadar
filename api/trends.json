@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T06:19:34.558702+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-11-20T07:19:23.954344+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -37,11 +38,12 @@
           "ranks": [
             26,
             24,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时30分 ~ 07时19分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -51,11 +53,12 @@
             27,
             30,
             29,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "利率不降就炒贝森特鱿鱼，特朗普对财长的玩笑影射鲍威尔",
@@ -320,6 +323,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
+          "url": "https://flash.jin10.com/detail/20251120063519485800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "美国总统特朗普：我遇到了两个在路易斯安那州被拖延了14年和18年的液化天然气项目，分别投资200亿美元和240亿美元，均在等待审批。在我亲自干预后，首个项目仅在一天内获得批准，第二个项目在一周内获得批准，随后成功投入运营。我的参与显著加快了审批流程，证实了总统直接参与关键能源投资的有效性。",
           "url": "https://flash.jin10.com/detail/20251120015520964800",
           "source": "金十数据",
@@ -499,7 +513,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -511,8 +525,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "美联储会议纪要发布后，美国10年期国债收益率持稳于4.11%附近。 两年期美债收益率一度上扬至3.5831%刷新日高。",
@@ -539,6 +553,29 @@
           "time_info": "02时30分"
         },
         {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
           "title": "美债收益率走高，特朗普政府推迟发布就业数据，浇灭对美联储降息的预期",
           "url": "https://wallstreetcn.com/livenews/3007411",
           "source": "华尔街见闻-快讯",
@@ -551,24 +588,13 @@
           "time_info": "[05时16分 ~ 06时19分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
           "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
           "url": "https://flash.jin10.com/detail/20251120054640235800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -590,7 +616,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -612,7 +638,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -623,7 +649,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -634,7 +660,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -656,7 +682,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -678,7 +704,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -689,9 +715,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至超过5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -708,8 +745,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -730,11 +767,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -747,8 +785,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -759,8 +797,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时30分 ~ 07时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -822,7 +860,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -833,8 +871,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -882,6 +920,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时19分]"
+        },
+        {
+          "title": "英伟达：正与OpenAI致力于战略合作伙伴关系。 将通过云继续支持OpenAI。 正设法与OpenAI达成独家协议。 OpenAI投资将转化为回报。",
+          "url": "https://wallstreetcn.com/livenews/3007456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：英伟达正与OpenAI合作，建设并部署超过10吉瓦的AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20251120062209378800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -907,7 +967,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -974,9 +1034,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋： （被问及全球内存短缺问题时）在很多情况下，我们已经为自身确保了大量的供应，我们已与供应商就价格进行了谈判。",
+          "url": "https://flash.jin10.com/detail/20251120070332322800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     }
