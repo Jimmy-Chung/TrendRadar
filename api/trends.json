@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:18:50.740931+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2025-11-20T20:41:19.805642+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时22分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时22分 ~ 20时41分]"
         },
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -526,7 +526,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -689,8 +689,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时19分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[07时19分 ~ 20时41分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -926,7 +926,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "Gemini3有哪些新功能",
@@ -963,8 +963,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 19时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时27分 ~ 20时41分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1053,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时19分]"
+        },
+        {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
@@ -1259,6 +1270,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时41分]"
+        },
+        {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -1278,17 +1300,6 @@
           "ranks": [
             2,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
