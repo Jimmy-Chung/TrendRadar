@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:23:16.754582+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2025-11-20T13:20:26.665343+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "url": "https://flash.jin10.com/detail/20251120120628966800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时20分]"
         },
         {
           "title": "特朗普：应起诉鲍威尔",
@@ -82,6 +83,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时26分 ~ 12时23分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时20分]"
+        },
+        {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时20分]"
         },
         {
           "title": "利率不降就炒贝森特鱿鱼，特朗普对财长的玩笑影射鲍威尔",
@@ -165,6 +191,17 @@
           "time_info": "[01时19分 ~ 02时30分]"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时20分]"
+        },
+        {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
           "url": "https://wallstreetcn.com/livenews/3007367",
           "source": "华尔街见闻-快讯",
@@ -178,38 +215,15 @@
           "time_info": "[02时30分 ~ 04时20分]"
         },
         {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 12时23分]"
-        },
-        {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "title": "C罗随特朗普参观白宫开怀大笑",
+          "url": "https://www.toutiao.com/trending/7573905925644340755/",
           "source": "今日头条",
           "ranks": [
-            16,
-            17
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时10分 ~ 12时23分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
+          "time_info": "[12时22分 ~ 13时20分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
@@ -269,17 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 11时10分]"
-        },
-        {
-          "title": "C罗随特朗普参观白宫开怀大笑",
-          "url": "https://www.toutiao.com/trending/7573905925644340755/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
         },
         {
           "title": "美国总统特朗普：对于美国而言，沙特是北约之外一个非常强大的盟友。",
@@ -642,8 +645,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 13时20分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -654,8 +657,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 13时20分]"
         },
         {
           "title": "美联储会议纪要发布后，美国10年期国债收益率持稳于4.11%附近。 两年期美债收益率一度上扬至3.5831%刷新日高。",
@@ -866,8 +869,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时20分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -880,8 +883,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时20分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -906,8 +909,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时30分 ~ 12时23分]"
+          "appearance_count": 11,
+          "time_info": "[02时30分 ~ 13时20分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -938,11 +941,12 @@
           "url": "https://www.zhihu.com/question/1974483598263476355",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时20分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
