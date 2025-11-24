@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T16:29:59.332006+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-24T17:25:53.818394+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 16时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时42分 ~ 17时25分]"
         },
         {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
@@ -154,6 +154,18 @@
           "time_info": "[05时17分 ~ 07时18分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 17时25分]"
+        },
+        {
           "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
           "url": "https://flash.jin10.com/detail/20251123214049380800",
           "source": "金十数据",
@@ -174,17 +186,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 03时16分]"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时29分]"
         },
         {
           "title": "特朗普抨击乌克兰领导层",
@@ -279,6 +280,28 @@
           "time_info": "07时18分"
         },
         {
+          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
+          "url": "https://wallstreetcn.com/livenews/3009492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "市场消息：特朗普预计最早将于当时时间周一公布控制医疗成本的总体框架方案。",
           "url": "https://flash.jin10.com/detail/20251124061816910800",
           "source": "金十数据",
@@ -348,7 +371,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -405,13 +428,24 @@
           "time_info": "[09时42分 ~ 09时43分]"
         },
         {
+          "title": "谷歌(GOOG.O)母公司Alphabet股价盘前涨2.9%，此前一交易日已上涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20251124170908032800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
           "url": "https://www.cls.cn/detail/2208396",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -419,7 +453,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -430,8 +464,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 17时25分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -465,12 +499,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴 美团",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
@@ -509,6 +565,17 @@
           "time_info": "[14时32分 ~ 15时21分]"
         },
         {
+          "title": "港交所文件显示：2025年11月18日，摩根大通对阿里巴巴(BABA.N)多头持仓比例从7.37%降至7.3%。",
+          "url": "https://flash.jin10.com/detail/20251124171847295800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
           "url": "https://wallstreetcn.com/livenews/3009299",
           "source": "华尔街见闻-快讯",
@@ -524,8 +591,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "机构：美联储降息预期抵消部分美元涨势 金价继续保持稳定",
+          "url": "https://flash.jin10.com/detail/20251124171817495800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
         {
           "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
           "url": "https://flash.jin10.com/detail/20251124110330638800",
@@ -548,6 +626,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 15时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     }
