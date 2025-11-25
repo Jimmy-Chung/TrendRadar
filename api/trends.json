@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T20:42:28.041454+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-11-25T21:34:34.799186+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时19分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[07时19分 ~ 21时34分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 20时42分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 21时34分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -107,8 +107,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时15分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[11时15分 ~ 21时34分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -173,11 +173,12 @@
             4,
             8,
             17,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 21时34分]"
         },
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -222,8 +223,21 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时32分 ~ 21时34分]"
+        },
+        {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时32分 ~ 19时19分]"
+          "time_info": "[16时28分 ~ 21时34分]"
         },
         {
           "title": "与特朗普通话谈及涉台言论？高市回应",
@@ -239,19 +253,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时26分 ~ 16时29分]"
-        },
-        {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 20时42分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -544,6 +545,18 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
+          "title": "特朗普主动和高市通话所为何事",
+          "url": "https://www.toutiao.com/trending/7576615764908576275/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时34分]"
+        },
+        {
           "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
           "url": "https://flash.jin10.com/detail/20251125015856912800",
           "source": "金十数据",
@@ -686,6 +699,17 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
+          "title": "台评论员称高市可能被特朗普骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时34分]"
+        },
+        {
           "title": "乌克兰国家安全负责人：此访旨在“完成”与美国总统特朗普的和平协议的“最后阶段”。",
           "url": "https://flash.jin10.com/detail/20251125171039971800",
           "source": "金十数据",
@@ -706,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普很有可能在12月25日之前宣布美联储主席人选。 五位非常优秀的候选人，都给我留下了深刻的印象。 债券市场迎来自2020年以来最好的一年。 政府关门使美国GDP减少了1.5%，至少损失了110亿美元。 美联储理事们似乎倾向于降息。 美联储应当如过去那样退居幕后。 就金融系统中的准备金是否真正保持充足而言，该制度似乎正开始显现裂痕。 我认为我们需要适当简化现有政策框架。",
+          "url": "https://wallstreetcn.com/livenews/3010244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -807,17 +842,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "特朗普主动和高市通话所为何事",
-          "url": "https://www.toutiao.com/trending/7576615764908576275/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
           "url": "https://flash.jin10.com/detail/20251125055653747800",
           "source": "金十数据",
@@ -906,21 +930,21 @@
           "time_info": "05时19分"
         },
         {
-          "title": "台评论员称高市可能被特朗普骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "美国财长贝森特：总统特朗普在圣诞节（12月25日）前宣布美联储新任主席人选的可能性非常大。",
+          "url": "https://flash.jin10.com/detail/20251125210641313800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "21时34分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -963,8 +987,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 21时34分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -973,11 +997,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时34分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -1025,6 +1050,17 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时34分]"
+        },
+        {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
           "url": "https://www.zhihu.com/question/1976223014631733240",
           "source": "知乎",
@@ -1035,17 +1071,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 11时15分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
-          "url": "https://www.cls.cn/detail/2210371",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时42分]"
         },
         {
           "title": "英伟达美股盘前跌超4%，谷歌A盘前涨超4%，报道称Meta Platforms与谷歌公司洽谈，希望在自家数据中心利用后者的TPUs。 双方讨论的目标是，2027年落实。",
@@ -1105,6 +1130,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "谷歌A盘后涨1.9%，英伟达跌1.1%。",
           "url": "https://wallstreetcn.com/livenews/3009799",
           "source": "华尔街见闻-快讯",
@@ -1133,7 +1169,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1262,7 +1298,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -1327,17 +1363,6 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
-          "title": "柯尔百货美股盘前涨幅扩大至逾24%，公司上调全财年指引。",
-          "url": "https://wallstreetcn.com/livenews/3010218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "蔚来美股盘前涨超9%，公司展望第四季度总营收将在327.58亿元至340.39亿元之间；预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
           "url": "https://wallstreetcn.com/livenews/3010161",
           "source": "华尔街见闻-快讯",
@@ -1362,6 +1387,18 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
+          "title": "柯尔百货美股盘前涨幅扩大至逾24%，公司上调全财年指引。",
+          "url": "https://wallstreetcn.com/livenews/3010218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时34分]"
+        },
+        {
           "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251125050520330800",
           "source": "金十数据",
@@ -1372,6 +1409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时19分]"
+        },
+        {
+          "title": "百思买三季度营收96.7亿美元，预估95.8亿美元。 三季度经调整后每股收益1.4美元，预估1.3美元。 百思买预计全财年营收416.5亿美元-419.5亿美元，此前预计411亿美元-419亿美元。 百思买预计全财年经调整后每股收益6.25美元-6.35美元，此前预计6.15-6.3美元。 百思买美股盘前一度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3010213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时34分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
@@ -1386,6 +1435,18 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
+          "title": "柯尔百货第三季度销售净额34亿美元，预估33.3亿美元。 第三季度每股收益0.070美元，上年同期0.20美元。 柯尔百货预计全年同店销售下降2.5％至3％，此前预计下降4％至5％。 柯尔百货预计全年营业利益率3.1％至3.2％，此前预计2.5％至2.7％。 柯尔百货仍然预测全年资本支出大约4.00亿美元，预估4.029亿美元。 柯尔百货美股盘前涨超14%。",
+          "url": "https://wallstreetcn.com/livenews/3010212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时34分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
           "url": "https://wallstreetcn.com/livenews/3009777",
           "source": "华尔街见闻-快讯",
@@ -1396,6 +1457,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "诺和诺德美股盘前涨近2%，报告显示公司Amycretin减肥效果显著",
+          "url": "https://wallstreetcn.com/livenews/3010203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时34分]"
         },
         {
           "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
@@ -1482,39 +1555,6 @@
           "time_info": "[02时30分 ~ 03时14分]"
         },
         {
-          "title": "百思买三季度营收96.7亿美元，预估95.8亿美元。 三季度经调整后每股收益1.4美元，预估1.3美元。 百思买预计全财年营收416.5亿美元-419.5亿美元，此前预计411亿美元-419亿美元。 百思买预计全财年经调整后每股收益6.25美元-6.35美元，此前预计6.15-6.3美元。 百思买美股盘前一度涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3010213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "柯尔百货第三季度销售净额34亿美元，预估33.3亿美元。 第三季度每股收益0.070美元，上年同期0.20美元。 柯尔百货预计全年同店销售下降2.5％至3％，此前预计下降4％至5％。 柯尔百货预计全年营业利益率3.1％至3.2％，此前预计2.5％至2.7％。 柯尔百货仍然预测全年资本支出大约4.00亿美元，预估4.029亿美元。 柯尔百货美股盘前涨超14%。",
-          "url": "https://wallstreetcn.com/livenews/3010212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "诺和诺德美股盘前涨近2%，报告显示公司Amycretin减肥效果显著",
-          "url": "https://wallstreetcn.com/livenews/3010203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "闪迪(SNDK.O)美股盘后大涨超10%，此前公司被纳入标普500指数。",
           "url": "https://flash.jin10.com/detail/20251125062141366800",
           "source": "金十数据",
@@ -1535,6 +1575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头比例达到2010年以来最高",
+          "url": "https://wallstreetcn.com/livenews/3010231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "标普道琼斯指数公司宣布，将Sandisk纳入标普500指数，取代Interpublic Group（IPG）。 将PTC Therapeutics纳入标普600小盘股指。 Sandisk（SNDK）美股盘后涨7%，PTC涨3%。",
@@ -1573,18 +1624,52 @@
     },
     {
       "keyword_group": "阿里巴巴 美团",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "阿里巴巴Q3营收同比增长4.8%，云业务收入激增34%，即时零售强劲增长60% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3760096",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时34分]"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：将“积极”投资于人工智能能力的提升，不排除在已承诺的三年3800亿元人民币投资之外进行额外投资。考虑到客户需求的旺盛，此前提及的3800亿元人民币投资可能显得偏小。",
+          "url": "https://flash.jin10.com/detail/20251125211805613800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "阿里巴巴电话会：不排除在已承诺的三年3800亿元人民币投资之外进行额外投资",
+          "url": "https://wallstreetcn.com/livenews/3010252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：以目前人工智能和云服务的增长速度来看，公司将在供应链上面临问题，包括服务器建设的速度。",
+          "url": "https://flash.jin10.com/detail/20251125211723857800",
+          "source": "金十数据",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时42分"
+          "time_info": "21时34分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨约2.9%。 热门中概股里，文远知行初步收涨约14.6%，小马智行涨12.3%，阿特斯太阳能涨10%，大全新能源涨8.8%，万国数据涨8.1%，百度涨7.4%，阿里巴巴涨5.4%，网易涨4.2%，蔚来涨3.2%，小鹏涨2.8%，腾讯涨2.1%，百胜中国则跌0.9%，新东方跌1.6%。 ETF中，KWEB涨3%，CQQQ涨2.8%。",
@@ -1644,6 +1729,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时19分 ~ 20时42分]"
+        },
+        {
+          "title": "阿里巴巴电话会：预计闪购投入将在下季度显著收缩",
+          "url": "https://wallstreetcn.com/livenews/3010246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：快消品电子商务渠道每天有超过1亿用户访问。",
+          "url": "https://flash.jin10.com/detail/20251125211254714800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "阿里巴巴(09988.HK)：蚂蚁集团的季度利润同比增长10.3%，至83.7亿元人民币。",
@@ -1812,7 +1919,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
