@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T01:18:03.952882+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-29T02:28:43.728706+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -16,8 +16,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
+        },
+        {
+          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
+          "url": "https://wallstreetcn.com/articles/3760330",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "高盛交易员：进入12月之际美股格局已变得更加清晰",
@@ -32,27 +44,49 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
-          "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
-          "url": "https://wallstreetcn.com/articles/3760330",
-          "source": "华尔街见闻",
+          "title": "美股三大股指收涨 英特尔涨超10%",
+          "url": "https://flash.jin10.com/detail/20251129020833506800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
           "url": "https://www.cls.cn/detail/2214556",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013457427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "02时28分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013346097800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -80,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -91,8 +125,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -102,8 +136,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -113,14 +147,14 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 02时28分]"
         }
       ]
     },
     {
       "keyword_group": "阿里巴巴 美团",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "惨烈！美团三年来首度报亏，核心本地商业Q3巨亏141亿元，预计Q4延续经营亏损 | 财报见闻",
@@ -130,8 +164,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "美团电话会：亏损已见顶，进行必要投入以维持领导地位，但不会参与价格战",
@@ -141,8 +175,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "美团第三季度净亏损160亿",
@@ -150,11 +184,23 @@
           "source": "抖音",
           "ranks": [
             15,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
+        },
+        {
+          "title": "美团王兴：外卖价格战不可持续",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%E7%8E%8B%E5%85%B4%EF%BC%9A%E5%A4%96%E5%8D%96%E4%BB%B7%E6%A0%BC%E6%88%98%E4%B8%8D%E5%8F%AF%E6%8C%81%E7%BB%AD",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
@@ -171,8 +217,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内存条价格为何原地起飞",
+          "url": "https://www.douyin.com/hot/2320079",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     }
