@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:25:54.801944+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-11-29T17:20:39.646445+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -281,11 +281,12 @@
             12,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 16时25分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 17时20分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -518,8 +519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 16时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 17时20分]"
         },
         {
           "title": "美团电话会：亏损已见顶，进行必要投入以维持领导地位，但不会参与价格战",
@@ -533,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 16时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 17时20分]"
         },
         {
           "title": "美团第三季度净亏损160亿",
@@ -559,11 +560,12 @@
             12,
             10,
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时20分]"
         },
         {
           "title": "如何评价美团发布的新上下文级联压缩技术（C3）？",
@@ -595,11 +597,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32064183",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "评论员：美团本地业务护城河被冲击",
@@ -608,7 +611,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -622,6 +625,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内存条价格为何原地起飞",
+          "url": "https://www.douyin.com/hot/2320079",
+          "source": "抖音",
+          "ranks": [
+            27,
+            24,
+            14,
+            19,
+            18,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[02时28分 ~ 13时20分]"
+        },
+        {
+          "title": "美光将在日本西部投资96亿美元，用于生产AI内存芯片",
+          "url": "https://flash.jin10.com/detail/20251129163258656800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
+          "url": "https://flash.jin10.com/detail/20251129154414299800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
         }
       ]
     },
@@ -640,8 +690,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时12分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时12分 ~ 17时20分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -649,11 +699,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 17时20分]"
         }
       ]
     },
@@ -671,8 +722,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 17时20分]"
         },
         {
           "title": "金价",
@@ -716,41 +767,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时18分 ~ 09时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "内存条价格为何原地起飞",
-          "url": "https://www.douyin.com/hot/2320079",
-          "source": "抖音",
-          "ranks": [
-            27,
-            24,
-            14,
-            19,
-            18,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时28分 ~ 13时20分]"
-        },
-        {
-          "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
-          "url": "https://flash.jin10.com/detail/20251129154414299800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         }
       ]
     },
