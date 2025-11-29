@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:19:10.248090+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2025-11-29T16:25:54.801944+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -284,8 +284,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时18分 ~ 15时19分]"
+          "appearance_count": 12,
+          "time_info": "[07时18分 ~ 16时25分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -296,8 +296,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 16时25分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -507,7 +507,7 @@
     },
     {
       "keyword_group": "阿里巴巴 美团",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "惨烈！美团三年来首度报亏，核心本地商业Q3巨亏141亿元，预计Q4延续经营亏损 | 财报见闻",
@@ -518,8 +518,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时25分]"
         },
         {
           "title": "美团电话会：亏损已见顶，进行必要投入以维持领导地位，但不会参与价格战",
@@ -533,8 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时25分]"
         },
         {
           "title": "美团第三季度净亏损160亿",
@@ -558,11 +558,12 @@
           "ranks": [
             12,
             10,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 16时25分]"
         },
         {
           "title": "如何评价美团发布的新上下文级联压缩技术（C3）？",
@@ -570,11 +571,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时25分]"
         },
         {
           "title": "如何评价美团刚刚发布的新上下文级联压缩技术（C3）？",
@@ -587,6 +589,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "美团三季度亏损160亿，王兴：外卖价格战不可持续，有信心捍卫即时零售市场地位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32064183",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "评论员：美团本地业务护城河被冲击",
+          "url": "https://www.toutiao.com/trending/7578039775894965801/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美团王兴：外卖价格战不可持续",
@@ -616,8 +640,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时12分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 16时25分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -628,8 +652,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 16时25分]"
         }
       ]
     },
@@ -647,8 +671,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 16时25分]"
         },
         {
           "title": "金价",
@@ -696,6 +720,41 @@
       ]
     },
     {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "内存条价格为何原地起飞",
+          "url": "https://www.douyin.com/hot/2320079",
+          "source": "抖音",
+          "ranks": [
+            27,
+            24,
+            14,
+            19,
+            18,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[02时28分 ~ 13时20分]"
+        },
+        {
+          "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
+          "url": "https://flash.jin10.com/detail/20251129154414299800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -729,30 +788,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时26分 ~ 14时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内存条价格为何原地起飞",
-          "url": "https://www.douyin.com/hot/2320079",
-          "source": "抖音",
-          "ranks": [
-            27,
-            24,
-            14,
-            19,
-            18,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时28分 ~ 13时20分]"
         }
       ]
     }
