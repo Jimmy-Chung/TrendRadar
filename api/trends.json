@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T09:46:55.450545+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-11-30T11:27:43.930137+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -179,22 +180,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 11时27分]"
         }
       ]
     },
@@ -210,11 +213,12 @@
             5,
             4,
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -232,6 +236,36 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴 美团",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美团：暴亏近200亿！阿里这次真成功偷家了？",
+          "url": "https://wallstreetcn.com/articles/3760381",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 11时27分]"
+        },
+        {
+          "title": "美团业绩会：对手匆匆忙忙，我们游刃有余",
+          "url": "https://wallstreetcn.com/articles/3760378",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股",
       "match_count": 1,
       "titles": [
@@ -245,24 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 美团",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美团：暴亏近200亿！阿里这次真成功偷家了？",
-          "url": "https://wallstreetcn.com/articles/3760381",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 09时46分]"
         }
       ]
     }
