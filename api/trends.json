@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T14:31:05.564488+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2025-11-30T15:18:49.542459+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             7,
             18,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时18分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -162,11 +163,12 @@
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时18分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -222,8 +224,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时18分]"
         }
       ]
     },
@@ -243,11 +245,12 @@
             8,
             14,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时18分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -276,11 +279,12 @@
             8,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时18分]"
         },
         {
           "title": "美团业绩会：对手匆匆忙忙，我们游刃有余",
