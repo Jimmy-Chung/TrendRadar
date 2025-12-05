@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T17:22:19.051176+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2025-12-05T18:23:01.987842+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
@@ -294,7 +294,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -313,7 +313,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -324,8 +324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时39分 ~ 17时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时39分 ~ 18时23分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -544,6 +544,28 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
+          "title": "美股核电股Oklo盘前跌超6%。此前，Oklo签订股权分销协议，拟（增加）发行至多15亿美元的股票。",
+          "url": "https://wallstreetcn.com/livenews/3015811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
+          "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
+          "url": "https://flash.jin10.com/detail/20251205172039774800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
           "url": "https://wallstreetcn.com/livenews/3015241",
           "source": "华尔街见闻-快讯",
@@ -569,8 +591,23 @@
     },
     {
       "keyword_group": "阿里巴巴 美团",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美团京东淘宝声明：自愿执行国标",
+          "url": "https://www.toutiao.com/trending/7579899346179837481/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            10,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 18时23分]"
+        },
         {
           "title": "美团京东淘宝声明：自愿执行国标",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%E6%B7%98%E5%AE%9D%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%87%AA%E6%84%BF%E6%89%A7%E8%A1%8C%E5%9B%BD%E6%A0%87",
@@ -584,18 +621,15 @@
           "time_info": "[11时19分 ~ 17时22分]"
         },
         {
-          "title": "美团京东淘宝声明：自愿执行国标",
-          "url": "https://www.toutiao.com/trending/7579899346179837481/",
-          "source": "今日头条",
+          "title": "美团外卖：周末将发放3000万张消费券",
+          "url": "https://wallstreetcn.com/livenews/3015840",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            1,
-            10,
-            20
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 17时22分]"
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "恒指低开0.4%，报25833.11点；恒生科技指数跌0.41%。腾讯控股跌1.1%，京东、网易跌超0.9%，阿里巴巴跌0.8%。",
