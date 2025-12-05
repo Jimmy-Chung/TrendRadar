@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T13:21:24.827568+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-12-05T14:33:16.898180+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -243,6 +243,17 @@
           "time_info": "[05时20分 ~ 06时18分]"
         },
         {
+          "title": "据国际文传电讯社：克里姆林宫表示，目前尚无俄罗斯总统普京与美国总统特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251205133653740800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
           "title": "市场消息：特朗普解雇了白宫宴会厅设计师。",
           "url": "https://flash.jin10.com/detail/20251205043753442800",
           "source": "金十数据",
@@ -302,11 +313,25 @@
             9,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 14时33分]"
+        },
+        {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 14时33分]"
         },
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -325,19 +350,6 @@
           "time_info": "[00时30分 ~ 06时18分]"
         },
         {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时19分 ~ 13时21分]"
-        },
-        {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
@@ -346,8 +358,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -557,19 +569,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时33分]"
         },
         {
           "title": "美团京东淘宝声明：自愿执行国标",
           "url": "https://www.toutiao.com/trending/7579899346179837481/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时33分]"
         },
         {
           "title": "恒指低开0.4%，报25833.11点；恒生科技指数跌0.41%。腾讯控股跌1.1%，京东、网易跌超0.9%，阿里巴巴跌0.8%。",
@@ -649,11 +662,12 @@
             5,
             9,
             12,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 14时33分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -764,11 +778,12 @@
           "url": "https://www.toutiao.com/trending/7579776859911782419/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时33分]"
         }
       ]
     }
