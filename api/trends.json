@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T22:17:48.898387+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2025-12-06T23:18:59.211290+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -18,11 +18,12 @@
             15,
             16,
             6,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时26分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时26分 ~ 23时18分]"
         },
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -34,8 +35,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时19分 ~ 22时17分]"
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 23时18分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -171,6 +172,18 @@
           "time_info": "[17时20分 ~ 22时17分]"
         },
         {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 23时18分]"
+        },
+        {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -289,6 +302,17 @@
           "time_info": "[02时27分 ~ 04时24分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时18分]"
+        },
+        {
           "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
           "url": "https://wallstreetcn.com/livenews/3016074",
           "source": "华尔街见闻-快讯",
@@ -300,18 +324,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时17分]"
         },
         {
           "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
@@ -396,17 +408,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 02时28分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时17分]"
         },
         {
           "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
@@ -585,6 +586,17 @@
           "time_info": "21时27分"
         },
         {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普若执意“甩卖”乌欧洲该怎么办",
           "url": "https://www.toutiao.com/trending/7580687730007346724/",
           "source": "今日头条",
@@ -611,8 +623,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 22时17分]"
+          "appearance_count": 17,
+          "time_info": "[09时26分 ~ 23时18分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -653,8 +665,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时19分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[07时19分 ~ 23时18分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -826,7 +838,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -877,8 +889,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时17分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 23时18分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -915,6 +927,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时26分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
@@ -934,8 +957,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时22分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[12时22分 ~ 23时18分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1022,8 +1045,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时18分]"
         }
       ]
     },
