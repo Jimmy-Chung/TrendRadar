@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:19:21.139511+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-12-06T16:25:31.758918+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             22,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 16时25分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -103,6 +104,20 @@
           "time_info": "[04时23分 ~ 09时26分]"
         },
         {
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 16时25分]"
+        },
+        {
           "title": "特朗普警告高市早苗别插手台海",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -126,19 +141,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时27分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -368,17 +370,6 @@
           "time_info": "11时10分"
         },
         {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
           "url": "https://flash.jin10.com/detail/20251206085353161800",
           "source": "金十数据",
@@ -413,6 +404,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时26分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时25分]"
         },
         {
           "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
@@ -503,6 +506,19 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 16时25分]"
+        },
+        {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
@@ -515,19 +531,6 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
-          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 15时19分]"
-        },
-        {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
           "url": "https://wallstreetcn.com/articles/3760810",
           "source": "华尔街见闻",
@@ -537,8 +540,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 16时25分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -552,8 +555,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 16时25分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -740,18 +743,6 @@
           "time_info": "[04时23分 ~ 09时26分]"
         },
         {
-          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
-          "url": "https://flash.jin10.com/detail/20251206034235677800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时23分 ~ 09时26分]"
-        },
-        {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
           "source": "知乎",
@@ -762,8 +753,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 16时25分]"
+        },
+        {
+          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
+          "url": "https://flash.jin10.com/detail/20251206034235677800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时22分 ~ 15时19分]"
+          "time_info": "[04时23分 ~ 09时26分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -816,8 +819,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 16时25分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
