@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:27:24.029655+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2025-12-06T22:17:48.898387+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时26分 ~ 18时20分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 22时17分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -68,19 +81,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时10分 ~ 15时19分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 21时27分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -156,6 +156,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时27分 ~ 05时19分]"
+        },
+        {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 22时17分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -289,17 +302,16 @@
           "time_info": "[02时27分 ~ 04时24分]"
         },
         {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
           "ranks": [
             16,
-            28,
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时20分 ~ 21时27分]"
+          "time_info": "[18时20分 ~ 22时17分]"
         },
         {
           "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
@@ -386,6 +398,17 @@
           "time_info": "[01时19分 ~ 02时28分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时17分]"
+        },
+        {
           "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
           "url": "https://wallstreetcn.com/livenews/3016055",
           "source": "华尔街见闻-快讯",
@@ -396,18 +419,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 02时28分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 21时27分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
@@ -505,17 +516,6 @@
           "time_info": "[07时19分 ~ 09时26分]"
         },
         {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时27分]"
-        },
-        {
           "title": "白宫记者团：美国总统特朗普会见墨西哥和加拿大的领导人。",
           "url": "https://wallstreetcn.com/livenews/3016132",
           "source": "华尔街见闻-快讯",
@@ -580,7 +580,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -591,7 +591,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         }
@@ -611,8 +611,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 22时17分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -649,11 +649,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 21时27分]"
+          "appearance_count": 17,
+          "time_info": "[07时19分 ~ 22时17分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -872,11 +873,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 22时17分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -928,11 +930,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时22分 ~ 21时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时22分 ~ 22时17分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1015,11 +1018,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时17分]"
         }
       ]
     },
