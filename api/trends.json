@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T15:19:05.025574+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-12-07T16:24:59.511524+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 16时24分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -74,11 +75,12 @@
           "ranks": [
             4,
             9,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 16时24分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -239,8 +241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 16时24分]"
         }
       ]
     },
