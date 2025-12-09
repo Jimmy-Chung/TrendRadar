@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:26:21.054567+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2025-12-09T19:20:23.038846+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -52,11 +52,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 18时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 19时20分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -141,6 +142,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
+          "url": "https://flash.jin10.com/detail/20251209191036728800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "特朗普：允许英伟达对华出售H200芯片",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -150,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "匈牙利福林兑美元抹去涨幅，据报特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190828500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
@@ -495,6 +518,17 @@
           "time_info": "[14时33分 ~ 15时22分]"
         },
         {
+          "title": "据Politico：特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190736130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
           "url": "https://flash.jin10.com/detail/20251209063630862800",
           "source": "金十数据",
@@ -526,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "路透社/益普索民意调查：随着共和党人支持美国总统特朗普应对生活成本问题的方式，对其工作方面的支持率从38%升至41%。",
+          "url": "https://flash.jin10.com/detail/20251209190617908800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "美国总统特朗普：美国将拿出一小部分关税收入，用于补贴农民。",
@@ -561,6 +606,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "路透社/益普索民意调查：西语裔对美国总统特朗普的支持率微升至34%。",
+          "url": "https://flash.jin10.com/detail/20251209190541205800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
           "url": "https://wallstreetcn.com/livenews/3017188",
           "source": "华尔街见闻-快讯",
@@ -570,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
+          "url": "https://flash.jin10.com/detail/20251209190527721800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
@@ -696,7 +763,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -707,8 +774,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 19时20分]"
         },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -904,6 +971,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
@@ -1114,6 +1192,18 @@
           "time_info": "[05时18分 ~ 06时20分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时20分]"
+        },
+        {
           "title": "谷歌与XREAL联合发布Project Aura",
           "url": "https://wallstreetcn.com/livenews/3017367",
           "source": "华尔街见闻-快讯",
@@ -1136,17 +1226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -1227,7 +1306,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         }
@@ -1249,6 +1328,20 @@
           "time_info": "[01时20分 ~ 07时20分]"
         },
         {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 19时20分]"
+        },
+        {
           "title": "梁文锋入选《自然》年度十大科学人物",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
           "source": "百度热搜",
@@ -1261,20 +1354,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 07时20分]"
-        },
-        {
-          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
-          "url": "https://www.zhihu.com/question/1981658527434053567",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 18时26分]"
         }
       ]
     },
