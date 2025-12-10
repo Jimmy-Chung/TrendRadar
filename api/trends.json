@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T22:23:28.916919+08:00",
-  "total_titles_processed": 2029,
+  "generated_at": "2025-12-10T23:26:01.064513+08:00",
+  "total_titles_processed": 2111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -150,6 +150,17 @@
           "time_info": "[16时30分 ~ 19时19分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时43分 ~ 23时26分]"
+        },
+        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
@@ -185,17 +196,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时23分]"
         },
         {
           "title": "特朗普称泽连斯基赚走拜登3500亿美元",
@@ -329,6 +329,20 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 23时26分]"
+        },
+        {
           "title": "特朗普演讲中低俗调侃议员老婆",
           "url": "https://www.toutiao.com/trending/7581732466420973574/",
           "source": "今日头条",
@@ -457,19 +471,6 @@
           "time_info": "[13时21分 ~ 14时33分]"
         },
         {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 22时23分]"
-        },
-        {
           "title": "特朗普：给美国经济表现打“A+++++”",
           "url": "https://flash.jin10.com/detail/20251210065833072800",
           "source": "金十数据",
@@ -490,6 +491,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普政府批准再将6个州排除在补充营养协助计划（SNAP）之外。",
+          "url": "https://flash.jin10.com/detail/20251210225946205800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
@@ -582,6 +594,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：自美国总统特朗普今年1月上任以来，已有约15.26万名移民被遣返回墨西哥。",
+          "url": "https://flash.jin10.com/detail/20251210224822561800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
@@ -745,7 +768,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -852,7 +875,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -862,8 +885,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时41分 ~ 22时23分]"
+          "appearance_count": 23,
+          "time_info": "[09时41分 ~ 23时26分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -980,7 +1003,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1007,6 +1030,18 @@
           "time_info": "05时18分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时26分]"
+        },
+        {
           "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3017849",
           "source": "华尔街见闻-快讯",
@@ -1029,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时18分]"
+        },
+        {
+          "title": "全球航空业ETF美股盘初涨0.36%，与可选消费ETF领跑行业ETF，网络股指数ETF跌0.16%，半导体ETF跌0.28%，科技行业ETF跌0.44%，全球科技股指数ETF跌0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3018507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "摩根士丹利：美债收益率目前偏低 美联储后续降息幅度或低于市场预期",
@@ -1064,6 +1110,17 @@
           "time_info": "[06时20分 ~ 06时21分]"
         },
         {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%；Meta Platforms盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
           "title": "十年期美债收益率升至三月高点 分析师称美联储决议后升幅有限",
           "url": "https://flash.jin10.com/detail/20251210194057228800",
           "source": "金十数据",
@@ -1075,24 +1132,13 @@
           "time_info": "[20时43分 ~ 20时44分]"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3018491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
           "url": "https://flash.jin10.com/detail/20251210214414427800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1242,6 +1288,93 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴 美团",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "香港恒生指数收盘上涨0.42%。恒生科技指数收盘上涨0.48%。地平线机器人涨超3%，美团涨2.7%。万科企业收涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3018310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
+          "url": "https://wallstreetcn.com/livenews/3018228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时24分]"
+        },
+        {
+          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3018493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时26分]"
+        },
+        {
+          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251210220349529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "恒生科技指数午后小幅走高，地平线机器人涨5.5%，美团涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3018247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时30分]"
+        },
+        {
+          "title": "报道：META使用了阿里巴巴的通义千问（QWEN）来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/articles/3761127",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
+          "title": "恒指开盘持平，报25435.49点；恒生科技指数微跌0.04%。美团涨1.1%，百度涨0.9%；网易、比亚迪电子跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3018001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -1317,81 +1450,6 @@
       ]
     },
     {
-      "keyword_group": "阿里巴巴 美团",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "香港恒生指数收盘上涨0.42%。恒生科技指数收盘上涨0.48%。地平线机器人涨超3%，美团涨2.7%。万科企业收涨超13%。",
-          "url": "https://wallstreetcn.com/livenews/3018310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
-        },
-        {
-          "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
-          "url": "https://wallstreetcn.com/livenews/3018228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时24分]"
-        },
-        {
-          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251210220349529800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3018493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "恒生科技指数午后小幅走高，地平线机器人涨5.5%，美团涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3018247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时30分]"
-        },
-        {
-          "title": "恒指开盘持平，报25435.49点；恒生科技指数微跌0.04%。美团涨1.1%，百度涨0.9%；网易、比亚迪电子跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3018001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1443,8 +1501,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时33分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[12时33分 ~ 23时26分]"
         },
         {
           "title": "内存条涨得比金条还快",
@@ -1455,11 +1513,12 @@
             16,
             20,
             27,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时21分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[13时21分 ~ 23时26分]"
         },
         {
           "title": "内存条涨得比金条还快",
