@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T12:34:14.072915+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2025-12-10T13:22:09.468394+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 13时22分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -108,8 +108,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时34分]"
+          "time_info": "[12时33分 ~ 13时22分]"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -133,17 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
-          "url": "https://flash.jin10.com/detail/20251210121528240800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -202,6 +203,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 13时22分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -413,15 +426,15 @@
           "time_info": "[12时33分 ~ 12时34分]"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
           "source": "今日头条",
           "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
+          "time_info": "[13时21分 ~ 13时22分]"
         },
         {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
@@ -628,8 +641,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 13时22分]"
         },
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -639,8 +652,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 13时22分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -891,11 +904,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 13时22分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -930,6 +944,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内存条涨得比金条还快",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E6%9D%A1%E6%B6%A8%E5%BE%97%E6%AF%94%E9%87%91%E6%9D%A1%E8%BF%98%E5%BF%AB",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            10,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "如果电脑的内存只有几十 GB, 它在面对几百上千 GB 的海量数据量计算时，他是如何实现的？",
+          "url": "https://www.zhihu.com/question/1976570055836858110",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 13时22分]"
+        },
+        {
+          "title": "内存条涨得比金条还快",
+          "url": "https://www.toutiao.com/trending/7581430870750969919/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     },
@@ -992,37 +1048,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "内存条涨得比金条还快",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E6%9D%A1%E6%B6%A8%E5%BE%97%E6%AF%94%E9%87%91%E6%9D%A1%E8%BF%98%E5%BF%AB",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "如果电脑的内存只有几十 GB, 它在面对几百上千 GB 的海量数据量计算时，他是如何实现的？",
-          "url": "https://www.zhihu.com/question/1976570055836858110",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
         }
       ]
     },
