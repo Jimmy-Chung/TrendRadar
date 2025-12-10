@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:23:48.320298+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2025-12-10T12:34:14.072915+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -39,11 +39,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时34分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -100,6 +101,17 @@
           "time_info": "[02时28分 ~ 09时41分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时34分]"
+        },
+        {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
           "url": "https://flash.jin10.com/detail/20251210055642373800",
           "source": "金十数据",
@@ -112,17 +124,6 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时23分]"
-        },
-        {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
           "url": "https://flash.jin10.com/detail/20251210070402355800",
           "source": "金十数据",
@@ -132,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -225,7 +237,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -388,6 +400,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
@@ -594,8 +628,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时34分]"
+        },
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时23分]"
+          "time_info": "[09时41分 ~ 12时34分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -620,17 +665,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 06时21分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时23分]"
         },
         {
           "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
@@ -856,11 +890,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时34分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -940,11 +975,12 @@
             2,
             4,
             5,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 12时34分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
@@ -956,6 +992,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "内存条涨得比金条还快",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E6%9D%A1%E6%B6%A8%E5%BE%97%E6%AF%94%E9%87%91%E6%9D%A1%E8%BF%98%E5%BF%AB",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            10,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "如果电脑的内存只有几十 GB, 它在面对几百上千 GB 的海量数据量计算时，他是如何实现的？",
+          "url": "https://www.zhihu.com/question/1976570055836858110",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         }
       ]
     },
@@ -982,6 +1049,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴 美团",
       "match_count": 1,
       "titles": [
@@ -995,26 +1079,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内存条涨得比金条还快",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E6%9D%A1%E6%B6%A8%E5%BE%97%E6%AF%94%E9%87%91%E6%9D%A1%E8%BF%98%E5%BF%AB",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时21分]"
         }
       ]
     }
