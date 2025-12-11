@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:23:13.150588+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-12-11T14:34:52.972309+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 14时34分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 14时34分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -577,18 +577,6 @@
           "time_info": "[00时28分 ~ 07时18分]"
         },
         {
-          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2225788",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 07时18分]"
-        },
-        {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
           "url": "https://wallstreetcn.com/articles/3761091",
           "source": "华尔街见闻",
@@ -596,8 +584,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -608,8 +596,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 14时34分]"
+        },
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时18分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -1109,8 +1109,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 14时34分]"
         }
       ]
     },
