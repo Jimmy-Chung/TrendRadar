@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T16:25:46.451353+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-12-13T17:20:35.959347+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -41,8 +41,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 17时20分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -55,6 +55,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时16分 ~ 15时22分]"
+        },
+        {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 17时20分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -99,17 +113,18 @@
           "time_info": "[12时27分 ~ 16时25分]"
         },
         {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
           "ranks": [
+            2,
+            5,
             12,
-            10,
-            9
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时30分 ~ 17时20分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -150,19 +165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时28分]"
-        },
-        {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 16时25分]"
         },
         {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
@@ -335,6 +337,17 @@
           "time_info": "[01时20分 ~ 03时18分]"
         },
         {
+          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
+          "url": "https://flash.jin10.com/detail/20251213164027529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "特朗普和爱泼斯坦照片公布",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%85%A7%E7%89%87%E5%85%AC%E5%B8%83%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -415,6 +428,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 11时16分]"
+        },
+        {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "特朗普称泰柬双方同意停火",
@@ -505,15 +530,15 @@
           "time_info": "02时32分"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "17时20分"
         },
         {
           "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
@@ -555,7 +580,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -586,8 +611,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时21分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[06时21分 ~ 17时20分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -748,11 +773,12 @@
             7,
             5,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时20分 ~ 17时20分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
