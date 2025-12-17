@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T14:33:34.320595+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-12-17T15:23:49.133741+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -85,8 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 15时23分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -96,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 15时23分]"
         },
         {
           "title": "特朗普政府宣布对40国实施入境限制",
@@ -106,11 +106,12 @@
           "ranks": [
             1,
             4,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 15时23分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
@@ -322,6 +323,17 @@
           "time_info": "[04时24分 ~ 05时21分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时23分]"
+        },
+        {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
           "url": "https://flash.jin10.com/detail/20251217040248349800",
           "source": "金十数据",
@@ -344,17 +356,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时24分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时33分]"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -454,7 +455,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -651,8 +652,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 15时23分]"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
@@ -989,8 +990,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时23分]"
         }
       ]
     },
