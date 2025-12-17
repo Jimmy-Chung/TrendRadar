@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:34:18.295551+08:00",
-  "total_titles_processed": 1972,
+  "generated_at": "2025-12-17T22:23:07.778257+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -48,6 +48,21 @@
           "time_info": "[00时30分 ~ 09时28分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时23分 ~ 22时23分]"
+        },
+        {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
           "url": "https://m.thepaper.cn/newsDetail_forward_32158017",
           "source": "澎湃新闻",
@@ -76,20 +91,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时23分 ~ 21时34分]"
         },
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -419,6 +420,17 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
+          "title": "特朗普任期失业率攀升至4.6% 中期选举席位流失风险或升高",
+          "url": "https://flash.jin10.com/detail/20251217220056002800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "评论员：特朗普越来越像拜登",
           "url": "https://www.toutiao.com/trending/7584323902441000490/",
           "source": "今日头条",
@@ -453,6 +465,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "特朗普政府官员对哈塞特担任美联储主席表示质疑。（Politico）",
@@ -667,7 +690,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -707,6 +730,18 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
+          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3022443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时23分]"
+        },
+        {
           "title": "周二（12月16日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.46%，报88100美元。 CME以太币期货DCR主力合约涨0.82%，报2959美元。 美股加密货币与加密货币关联指数涨1.89%，报61.48点。 最近24小时，MarketVector数字资产100小盘指数涨1.08%，暂报3724.25点。",
           "url": "https://wallstreetcn.com/livenews/3021922",
           "source": "华尔街见闻-快讯",
@@ -717,17 +752,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 07时22分]"
-        },
-        {
-          "title": "美股期货短线走低，纳指期货日内涨幅收窄至0.12%，标普500指数期货涨幅收窄至0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3022443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -778,6 +802,28 @@
           "time_info": "[05时21分 ~ 06时20分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217220805221800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3022461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "美债收益率在非农日至少跌超2个基点，数据发布后一度冲高回落",
           "url": "https://wallstreetcn.com/livenews/3021898",
           "source": "华尔街见闻-快讯",
@@ -788,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时20分]"
+        },
+        {
+          "title": "甲骨文美股盘前股价下跌2%，有报道称其最大的数据中心合作伙伴Blue Owl Capital已决定不再支持一项价值100亿美元的数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3022447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -848,7 +905,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -895,6 +952,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 04时25分]"
+        },
+        {
+          "title": "OpenAI：为新闻机构推出OpenAI学院（OPENAI Academy），在未来的计划中，将与更多新闻机构和行业合作伙伴合作，以扩展学院。",
+          "url": "https://flash.jin10.com/detail/20251217220433800800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
