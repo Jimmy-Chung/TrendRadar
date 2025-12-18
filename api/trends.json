@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T18:24:10.208805+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2025-12-18T19:20:26.365828+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -51,6 +51,21 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            4,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 19时20分]"
+        },
+        {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
           "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
           "source": "凤凰网",
@@ -62,29 +77,16 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "特朗普：我接手了一个烂摊子",
-          "url": "https://www.toutiao.com/trending/7584554052525080639/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 18时24分]"
-        },
-        {
           "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
           "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -101,6 +103,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时29分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时20分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -126,18 +141,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时34分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 18时24分]"
         },
         {
           "title": "特朗普账户宣传存1千可涨至60万",
@@ -524,6 +527,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
           "url": "https://flash.jin10.com/detail/20251218081029789800",
           "source": "金十数据",
@@ -670,7 +684,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -682,8 +696,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时20分 ~ 18时24分]"
+          "appearance_count": 17,
+          "time_info": "[06时20分 ~ 19时20分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -827,6 +841,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
           "url": "https://flash.jin10.com/detail/20251218050114407800",
           "source": "金十数据",
@@ -941,6 +966,17 @@
           "time_info": "[00时29分 ~ 01时24分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时20分]"
+        },
+        {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
           "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
@@ -951,17 +987,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -1020,11 +1045,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时33分 ~ 18时24分]"
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1122,8 +1148,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时21分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时21分 ~ 19时20分]"
         },
         {
           "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
@@ -1135,11 +1161,24 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时34分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时34分 ~ 19时20分]"
+        },
+        {
+          "title": "iPhone千万不能把内存用完",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E6%8A%8A%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "未来30天NAND闪存短缺将明显加剧 国产存储芯片厂商有望迎来爆发",
@@ -1163,17 +1202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "iPhone千万不能把内存用完",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E6%8A%8A%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "美光科技(MU.O) CEO：公司已就2026年的高带宽内存（HBM）供应与客户达成了价格和容量协议。",
@@ -1202,7 +1230,7 @@
     },
     {
       "keyword_group": "阿里巴巴 美团",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美团优选全国关停，社区团购格局多多买菜一家独大，美团优选为何做不下去了？社区团购寒冬来了吗？",
@@ -1218,6 +1246,19 @@
           "time_info": "[09时29分 ~ 17时28分]"
         },
         {
+          "title": "周杰伦代言美团外卖了，会带来多大的品牌效应？为什么感觉他的代言都很「接地气」？",
+          "url": "https://www.zhihu.com/question/1984911361419997821",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时20分]"
+        },
+        {
           "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3022988",
           "source": "华尔街见闻-快讯",
@@ -1228,18 +1269,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时29分 ~ 17时28分]"
-        },
-        {
-          "title": "周杰伦代言美团外卖了，会带来多大的品牌效应？为什么感觉他的代言都很「接地气」？",
-          "url": "https://www.zhihu.com/question/1984911361419997821",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 18时24分]"
         },
         {
           "title": "美团外卖到底请了几个杰伦",
@@ -1258,11 +1287,23 @@
           "url": "https://wallstreetcn.com/livenews/3023043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时20分]"
+        },
+        {
+          "title": "阿里巴巴对红星美凯龙H股的持股比例从8.57%降至5.71%。",
+          "url": "https://wallstreetcn.com/livenews/3023074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
