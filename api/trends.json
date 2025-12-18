@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:20:26.365828+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2025-12-18T20:43:23.727779+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -384,6 +384,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
           "url": "https://flash.jin10.com/detail/20251218000548868800",
           "source": "金十数据",
@@ -527,13 +538,24 @@
           "time_info": "05时21分"
         },
         {
+          "title": "据华盛顿邮报：美国总统特朗普预计将宣布一项医疗保险试点计划，为患者的CBD治疗提供报销。",
+          "url": "https://flash.jin10.com/detail/20251218202211493800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
           "url": "https://wallstreetcn.com/livenews/3023059",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -615,6 +637,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "特朗普媒体科技集团：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
+          "url": "https://wallstreetcn.com/livenews/3023108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
           "url": "https://wallstreetcn.com/livenews/3022502",
           "source": "华尔街见闻-快讯",
@@ -648,6 +681,17 @@
           "time_info": "11时21分"
         },
         {
+          "title": "特朗普媒体科技集团将以全股票交易方式与TAE Technologies合并",
+          "url": "https://wallstreetcn.com/livenews/3023103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
           "url": "https://wallstreetcn.com/livenews/3022755",
           "source": "华尔街见闻-快讯",
@@ -668,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "特朗普20分钟演讲晒经济成绩单",
+          "url": "https://www.toutiao.com/trending/7585127233983876650/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
@@ -696,8 +751,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时20分 ~ 19时20分]"
+          "appearance_count": 18,
+          "time_info": "[06时20分 ~ 20时43分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -796,6 +851,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时43分]"
+        },
+        {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
           "url": "https://flash.jin10.com/detail/20251218024123307800",
           "source": "金十数据",
@@ -839,17 +905,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
@@ -973,8 +1028,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时43分]"
         },
         {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
@@ -1049,8 +1104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[14时33分 ~ 20时43分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1135,7 +1190,7 @@
     },
     {
       "keyword_group": "NAND HBM 内存",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美光电话会：“好日子还在后头！”CEO直言2026年HBM已售罄，正签署“前所未有”长期合同",
@@ -1148,8 +1203,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时21分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[11时21分 ~ 20时43分]"
         },
         {
           "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
@@ -1174,11 +1229,12 @@
           "source": "微博",
           "ranks": [
             16,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "未来30天NAND闪存短缺将明显加剧 国产存储芯片厂商有望迎来爆发",
@@ -1214,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "苹果客服回应iPhone内存用完就坏了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "机构：DDR5高获利放大产能排挤效应，2026年HBM3e定价动能同步转强",
@@ -1252,11 +1319,12 @@
           "ranks": [
             12,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 20时43分]"
         },
         {
           "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
@@ -1301,7 +1369,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
