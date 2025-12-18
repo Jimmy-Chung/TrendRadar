@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:43:23.727779+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2025-12-18T21:37:00.602164+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
@@ -189,6 +189,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 21时37分]"
         },
         {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
@@ -384,17 +395,6 @@
           "time_info": "15时22分"
         },
         {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
           "url": "https://flash.jin10.com/detail/20251218000548868800",
           "source": "金十数据",
@@ -544,7 +544,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -643,7 +643,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -687,7 +687,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -720,7 +720,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -751,8 +751,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时20分 ~ 20时43分]"
+          "appearance_count": 20,
+          "time_info": "[06时20分 ~ 21时37分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -789,6 +789,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时27分 ~ 18时24分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时37分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
@@ -849,17 +860,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时43分]"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
@@ -1104,8 +1104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[14时33分 ~ 21时37分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1203,8 +1203,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时21分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[11时21分 ~ 21时37分]"
         },
         {
           "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
@@ -1230,11 +1230,12 @@
           "ranks": [
             16,
             9,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时37分]"
         },
         {
           "title": "未来30天NAND闪存短缺将明显加剧 国产存储芯片厂商有望迎来爆发",
@@ -1246,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 15时22分]"
+        },
+        {
+          "title": "苹果客服回应iPhone内存用完就坏了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 21时37分]"
         },
         {
           "title": "美光科技(MU.O) CEO：预计紧张的内存市场状况将持续到2026年之后。",
@@ -1270,17 +1282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "苹果客服回应iPhone内存用完就坏了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "机构：DDR5高获利放大产能排挤效应，2026年HBM3e定价动能同步转强",
@@ -1323,8 +1324,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 21时37分]"
         },
         {
           "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
@@ -1377,8 +1378,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
         {
           "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
           "url": "https://flash.jin10.com/detail/20251218110237653800",
@@ -1405,8 +1417,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "欧洲央行利率决议后，欧洲斯托克600指数维持涨势，现涨0.29%。德国30年期国债收益率上行2个基点至3.50%，为2011年7月以来最高。欧元兑美元跌幅收窄，下跌0.1%至1.1726。",
+          "url": "https://wallstreetcn.com/livenews/3023163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
         {
           "title": "周三（12月17日）纽约尾盘，ICE美元指数涨0.24%，报98.381点，日内交投区间为98.175-98.639点，亚太时段持续走高、北京时间16:05刷新日高，经过一段时间的高位震荡之后，20:00-00:00逐步回吐涨幅。 彭博美元指数涨0.20%，报1207.27点，日内交投区间为1204.77-1209.06点。",
           "url": "https://wallstreetcn.com/livenews/3022596",
