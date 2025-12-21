@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T11:39:12.673034+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-12-21T12:37:37.964617+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时37分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -98,11 +98,12 @@
           "url": "https://wallstreetcn.com/livenews/3024367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 12时37分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -145,8 +146,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时37分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -159,8 +160,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时37分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -211,11 +212,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时37分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -251,11 +253,12 @@
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 12时37分]"
         }
       ]
     },
