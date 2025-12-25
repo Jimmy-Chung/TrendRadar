@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-25T22:20:51.903013+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2025-12-25T23:21:25.396883+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 23时21分]"
+        },
         {
           "title": "高市早苗：想尽快与特朗普会晤",
           "url": "https://news.ifeng.com/c/8pNHf17pGd9",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 22时20分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -245,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "评论员：特朗普级战舰就是活靶子",
+          "url": "https://www.toutiao.com/trending/7587729668317417014/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
@@ -261,8 +272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时42分 ~ 22时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时42分 ~ 23时21分]"
         },
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -447,7 +458,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -460,8 +471,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时21分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -512,6 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
@@ -589,7 +611,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -609,8 +631,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 23时21分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
