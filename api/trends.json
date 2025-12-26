@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:23:01.117869+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2025-12-26T19:19:25.293749+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 19时19分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -102,6 +102,17 @@
           "time_info": "[01时18分 ~ 04时23分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时19分]"
+        },
+        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -122,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时23分]"
         },
         {
           "title": "据AXIOS记者：乌克兰官员透露，美国总统特朗普将于周日在海湖庄园会见乌克兰总统泽连斯基。",
@@ -272,8 +272,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时42分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时42分 ~ 19时19分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -421,11 +421,12 @@
             7,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 19时19分]"
         },
         {
           "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
