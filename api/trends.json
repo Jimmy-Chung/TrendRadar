@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T15:22:42.117878+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-12-26T16:29:08.984775+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 16时29分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -33,18 +47,15 @@
           "time_info": "[02时30分 ~ 06时20分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
-            4,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 16时29分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -91,17 +102,6 @@
           "time_info": "[01时18分 ~ 04时23分]"
         },
         {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 15时22分]"
-        },
-        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -124,6 +124,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "泽连斯基称近期将与美总统特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -141,7 +152,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -152,7 +163,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -163,7 +174,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -201,6 +212,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "特朗普人事强震引爆新争议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
           "url": "https://wallstreetcn.com/livenews/3026898",
           "source": "华尔街见闻-快讯",
@@ -235,6 +257,20 @@
           "time_info": "[00时26分 ~ 09时42分]"
         },
         {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 16时29分]"
+        },
+        {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
           "url": "https://wallstreetcn.com/livenews/3026784",
           "source": "华尔街见闻-快讯",
@@ -249,17 +285,17 @@
           "time_info": "[00时26分 ~ 04时23分]"
         },
         {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            6
+            13,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 16时29分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
@@ -268,7 +304,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -284,18 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 13时22分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时22分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -374,11 +398,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348429&amp;topic_name=%E4%B8%89%E6%98%9F%E5%A4%B1%E7%81%AB%E5%86%85%E5%AD%98%E9%A3%99%E5%8D%87%2C%E9%92%B1%E5%8C%85%E9%9B%86%E4%BD%93%E5%93%80%E5%9A%8E",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时29分]"
         }
       ]
     },
@@ -396,8 +421,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时29分]"
         }
       ]
     },
@@ -429,7 +454,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
