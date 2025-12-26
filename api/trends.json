@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:35:52.566532+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2025-12-26T13:22:56.323515+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -83,11 +83,12 @@
           "ranks": [
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 13时22分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -119,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时22分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -212,8 +213,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 13时22分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -221,22 +222,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时22分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
           "url": "https://flash.jin10.com/detail/20251226112935984800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时22分]"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -272,11 +275,12 @@
           "url": "https://flash.jin10.com/detail/20251226112952955800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时22分]"
         }
       ]
     },
@@ -294,8 +298,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 12时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 13时22分]"
         }
       ]
     },
