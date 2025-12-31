@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:43:15.460709+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-12-31T21:33:06.497990+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,17 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 21时33分]"
+        },
+        {
           "title": "外交部回应特朗普谈解放军军演",
           "url": "https://www.douyin.com/hot/2352044",
           "source": "抖音",
@@ -107,17 +118,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时25分 ~ 14时35分]"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 20时43分]"
         },
         {
           "title": "国台办回应特朗普称不担心台海局势",
@@ -341,8 +341,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时19分 ~ 20时43分]"
+          "appearance_count": 20,
+          "time_info": "[07时19分 ~ 21时33分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
