@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:23:51.230827+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-01-01T16:31:15.454976+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -253,8 +253,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时31分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -409,8 +409,26 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         }
       ]
     },
@@ -430,6 +448,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 06时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴 美团",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美团众包骑手开启「分配抢单」模式，「拼手速」时代宣告终结，怎样看待这一调整？对骑手收入有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983985629919457281",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         }
       ]
     }
