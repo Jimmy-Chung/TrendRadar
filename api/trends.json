@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T14:36:03.595414+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-01-06T15:27:13.124854+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
             11,
             12,
             13,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 14时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 15时27分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -111,6 +112,29 @@
           "time_info": "[00时27分 ~ 06时21分]"
         },
         {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时27分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时27分]"
+        },
+        {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
           "source": "澎湃新闻",
@@ -124,29 +148,6 @@
           "time_info": "[01时23分 ~ 07时21分]"
         },
         {
-          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
-          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时36分]"
-        },
-        {
           "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
           "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
           "source": "凤凰网",
@@ -155,8 +156,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时27分]"
         },
         {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
@@ -166,8 +167,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时27分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -176,11 +177,36 @@
           "ranks": [
             15,
             29,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时27分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 15时27分]"
+        },
+        {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时36分]"
+          "time_info": "[13时25分 ~ 15时27分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -331,18 +357,6 @@
           "time_info": "[00时27分 ~ 02时33分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时36分]"
-        },
-        {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
           "url": "https://flash.jin10.com/detail/20260106050326397800",
           "source": "金十数据",
@@ -365,17 +379,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 14时36分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -672,7 +675,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -683,8 +686,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时20分 ~ 14时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时20分 ~ 15时27分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时20分 ~ 15时27分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -697,19 +713,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时20分 ~ 14时36分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -797,6 +800,17 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
+          "title": "美债收益率走高 分析师称曲线有趋陡的空间",
+          "url": "https://flash.jin10.com/detail/20260106144320434800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
           "url": "https://wallstreetcn.com/livenews/3030982",
           "source": "华尔街见闻-快讯",
@@ -865,74 +879,31 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "keyword_group": "金价",
+      "match_count": 7,
       "titles": [
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时36分]"
-        },
-        {
-          "title": "OpenAI家务机器人售价2万美元",
-          "url": "https://wallstreetcn.com/livenews/3031066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 05时21分]"
-        },
-        {
-          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
-          "url": "https://flash.jin10.com/detail/20260106063634804800",
+          "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
+          "url": "https://flash.jin10.com/detail/20260106150838647800",
           "source": "金十数据",
           "ranks": [
-            14
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
-          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3031108",
-          "source": "华尔街见闻-快讯",
+          "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
+          "url": "https://www.cls.cn/detail/2248953",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         },
-        {
-          "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3031031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
         {
           "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
           "url": "https://flash.jin10.com/detail/20260106134723251800",
@@ -987,6 +958,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时27分]"
+        },
+        {
+          "title": "OpenAI家务机器人售价2万美元",
+          "url": "https://wallstreetcn.com/livenews/3031066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 05时21分]"
+        },
+        {
+          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
+          "url": "https://flash.jin10.com/detail/20260106063634804800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3031108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3031031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
