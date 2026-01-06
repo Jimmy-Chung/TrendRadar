@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T13:25:39.634881+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-01-06T14:36:03.595414+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -65,11 +65,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 14时36分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -130,19 +131,56 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时36分]"
         },
         {
           "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
           "url": "https://www.zhihu.com/question/1991570437310740440",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时25分]"
+          "time_info": "[11时39分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时36分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            15,
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时36分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -293,26 +331,16 @@
           "time_info": "[00时27分 ~ 02时33分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时36分]"
         },
         {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
@@ -339,6 +367,17 @@
           "time_info": "[03时20分 ~ 04时26分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时36分]"
+        },
+        {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
           "url": "https://www.cls.cn/detail/2248515",
           "source": "财联社热门",
@@ -362,18 +401,6 @@
           "time_info": "[03时20分 ~ 04时26分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时25分]"
-        },
-        {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3031058",
           "source": "华尔街见闻-快讯",
@@ -395,6 +422,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "根据法新社5日报道，随着伊朗国内的抗议活动进入第二周，美国总统特朗普警告伊朗，如果抗议活动中有更多抗议者死亡，美国将对其进行“非常严厉的打击”。（环球时报）",
+          "url": "https://wallstreetcn.com/livenews/3031403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
@@ -430,17 +468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时25分]"
         },
         {
           "title": "特朗普一天之内威胁多国",
@@ -488,6 +515,17 @@
           "time_info": "[11时39分 ~ 12时40分]"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
           "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
           "url": "https://flash.jin10.com/detail/20260105231438346800",
           "source": "金十数据",
@@ -497,17 +535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -648,6 +675,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时36分]"
+        },
+        {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
@@ -658,6 +697,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时36分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -671,31 +723,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时27分 ~ 13时25分]"
-        },
-        {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 13时25分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 13时25分]"
         },
         {
           "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
@@ -851,8 +878,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 14时36分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -904,8 +931,30 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
+          "url": "https://flash.jin10.com/detail/20260106134723251800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "银行家表示，土耳其央行上周的外汇储备预计减少了55亿美元至1885亿美元；土耳其央行上周出售了40亿美元，其中近20亿美元的降幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260106134420710800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
         {
           "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
           "url": "https://flash.jin10.com/detail/20260106052744835800",
@@ -938,6 +987,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "蔚来李斌：2026年汽车行业最大的成本压力是内存涨价",
+          "url": "https://wallstreetcn.com/livenews/3031367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时36分]"
+        },
+        {
+          "title": "SK海力士在CES展示16层HBM4",
+          "url": "https://wallstreetcn.com/livenews/3031143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：英伟达Bluefield-4数据处理器为英伟达推理上下文内存存储平台提供支持。",
+          "url": "https://flash.jin10.com/detail/20260106064033337800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         }
       ]
     },
@@ -978,45 +1078,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "SK海力士在CES展示16层HBM4",
-          "url": "https://wallstreetcn.com/livenews/3031143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：英伟达Bluefield-4数据处理器为英伟达推理上下文内存存储平台提供支持。",
-          "url": "https://flash.jin10.com/detail/20260106064033337800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "蔚来李斌：2026年汽车行业最大的成本压力是内存涨价",
-          "url": "https://wallstreetcn.com/livenews/3031367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
         }
       ]
     },
