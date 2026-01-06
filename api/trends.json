@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:27:21.802264+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-01-06T18:24:47.733239+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 18时24分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -96,19 +96,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 17时27分]"
-        },
-        {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -120,11 +109,23 @@
             18,
             19,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -152,6 +153,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时25分 ~ 18时24分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -193,18 +207,6 @@
           "time_info": "[11时39分 ~ 15时27分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 17时27分]"
-        },
-        {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
           "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
           "source": "凤凰网",
@@ -225,8 +227,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 18时24分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -387,6 +389,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时33分]"
+        },
+        {
+          "title": "特朗普干预主义引发去美元化担忧 杰富瑞看好黄金避险属性",
+          "url": "https://flash.jin10.com/detail/20260106174715588800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
@@ -572,6 +585,28 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "知情人士：特朗普政府计划本周约谈美国石油巨头",
+          "url": "https://flash.jin10.com/detail/20260106174326152800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
           "url": "https://flash.jin10.com/detail/20260106032305906800",
           "source": "金十数据",
@@ -718,8 +753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时20分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时20分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -921,11 +956,12 @@
           "ranks": [
             13,
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 18时24分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
@@ -1007,11 +1043,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 17时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 18时24分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1239,6 +1276,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "花旗：预计泡泡玛特将继续深耕情感消费打造多元IP矩阵",
+          "url": "https://flash.jin10.com/detail/20260106173750071800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     }
