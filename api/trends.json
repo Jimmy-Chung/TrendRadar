@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T17:28:52.191983+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-01-09T18:24:15.639885+08:00",
+  "total_titles_processed": 1686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 121,
+      "match_count": 132,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -20,6 +20,34 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 18时24分]"
+        },
+        {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
           "url": "https://wallstreetcn.com/articles/3762893",
           "source": "华尔街见闻",
@@ -29,8 +57,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 18时24分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 18时24分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -69,6 +110,22 @@
           "time_info": "[00时31分 ~ 12时41分]"
         },
         {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            14,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时24分]"
+        },
+        {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
           "source": "澎湃新闻",
@@ -100,46 +157,6 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 17时28分]"
-        },
-        {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 17时28分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 17时28分]"
-        },
-        {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
           "url": "https://www.cls.cn/detail/2252430",
           "source": "财联社热门",
@@ -150,21 +167,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时45分 ~ 15时26分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时28分]"
         },
         {
           "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
@@ -252,6 +254,18 @@
           "time_info": "[09时45分 ~ 14时35分]"
         },
         {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时24分]"
+        },
+        {
           "title": "人事管理办公室（OPM）数据显示：美国总统特朗普第二任期内，已经有超过32.2万名雇员离开联邦机构。 教育部减员39%，财政部流失21%。",
           "url": "https://wallstreetcn.com/livenews/3033551",
           "source": "华尔街见闻-快讯",
@@ -326,6 +340,28 @@
           "time_info": "[11时40分 ~ 13时26分]"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "俄外交部：特朗普已下令释放被扣押油轮上的俄公民",
+          "url": "https://wallstreetcn.com/livenews/3034003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：（就特朗普指示购买2000亿美元的抵押贷款债券）我们正在着手处理。",
           "url": "https://flash.jin10.com/detail/20260109055617117800",
           "source": "金十数据",
@@ -348,6 +384,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时21分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普：古巴有麻烦。",
@@ -441,7 +488,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -466,18 +513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        },
-        {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时28分]"
         },
         {
           "title": "特朗普宣称自己不需要国际法",
@@ -623,17 +658,6 @@
           "time_info": "[11时40分 ~ 12时41分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时28分]"
-        },
-        {
           "title": "丹麦与格陵兰岛的外交官们前往美国白宫，会见特朗普政府的官员们。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3033546",
           "source": "华尔街见闻-快讯",
@@ -643,6 +667,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普称取消对委第二波军事打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E5%A7%94%E7%AC%AC%E4%BA%8C%E6%B3%A2%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普称取消对委第二波军事打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E5%A7%94%E7%AC%AC%E4%BA%8C%E6%B3%A2%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。 参议院下周将围绕这个议题投票。",
@@ -703,6 +760,39 @@
           "time_info": "[04时25分 ~ 04时26分]"
         },
         {
+          "title": "英特尔盘前涨约2%，此前美国总统特朗普声称会见了该公司CEO。",
+          "url": "https://wallstreetcn.com/livenews/3033983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普称取消对委内瑞拉第二波军事打击",
+          "url": "https://wallstreetcn.com/livenews/3033977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-09）",
+          "url": "https://flash.jin10.com/detail/20260109175303583800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
           "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
           "url": "https://wallstreetcn.com/livenews/3033482",
           "source": "华尔街见闻-快讯",
@@ -735,6 +825,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普对伊强硬表态 能源板块借势开启“补涨”行情",
+          "url": "https://flash.jin10.com/detail/20260109175258513800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "周四（1月8日），降息赢家指数涨2.69%，报104.68点。 “特朗普关税输家”指数涨2.71%，报119.13点。 “特朗普金融指数”涨0.37%，报179.91点。 散户抱团概念股指数/迷因股（meme stock）指数涨1.97%，报16.42点。",
@@ -823,6 +924,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 15时26分]"
+        },
+        {
+          "title": "美参议院拟限制特朗普对委继续动武",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E6%8B%9F%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E7%BB%A7%E7%BB%AD%E5%8A%A8%E6%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普称取消对委内瑞拉第二波打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%AC%AC%E4%BA%8C%E6%B3%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美国参议院以52比47的票数通过了关于战争权力的决议，限制特朗普对委内瑞拉采取军事行动的能力。",
@@ -1216,7 +1339,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1432,8 +1555,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 18时24分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -1470,8 +1593,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时45分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -1508,8 +1631,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
@@ -1767,7 +1890,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -1825,6 +1948,57 @@
       ]
     },
     {
+      "keyword_group": "阿里巴巴 美团",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "淘宝闪购计划今年继续加大外卖投入，目标达到市场绝对第一，阿里能在外卖市场反超美团吗？",
+          "url": "https://www.zhihu.com/question/1992696733449340814",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
+        },
+        {
+          "title": "美团：坚决拥护国家开展外卖市场竞争调查评估",
+          "url": "https://wallstreetcn.com/livenews/3033993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.09%，报7796.71点。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收涨1.13%，中国科技指数ETF（CQQQ）收涨0.67%。 XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3033554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "美团：坚决拥护外卖市场竞争调查评估",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%A2%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%A4%96%E5%8D%96%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1862,34 +2036,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 美团",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收涨1.09%，报7796.71点。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收涨1.13%，中国科技指数ETF（CQQQ）收涨0.67%。 XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3033554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
-        },
-        {
-          "title": "淘宝闪购计划今年继续加大外卖投入，目标达到市场绝对第一，阿里能在外卖市场反超美团吗？",
-          "url": "https://www.zhihu.com/question/1992696733449340814",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         }
       ]
     },
