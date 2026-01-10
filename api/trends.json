@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T05:19:21.284965+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-01-11T06:20:45.705416+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -62,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -71,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
@@ -88,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -99,8 +100,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "G7峰会据悉系为特朗普而改期",
@@ -110,8 +111,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普：很快打击墨境内",
@@ -121,8 +122,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -133,11 +134,12 @@
             21,
             24,
             20,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 06时20分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -152,6 +154,17 @@
           "time_info": "[00时25分 ~ 02时31分]"
         },
         {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 06时20分]"
+        },
+        {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
           "url": "https://wallstreetcn.com/articles/3762987",
           "source": "华尔街见闻",
@@ -161,17 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时19分]"
         }
       ]
     },
@@ -189,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -204,8 +206,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -215,8 +217,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -228,8 +230,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -238,11 +240,12 @@
           "ranks": [
             21,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时30分 ~ 06时20分]"
         }
       ]
     },
@@ -260,8 +263,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     },
@@ -278,8 +281,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     }
