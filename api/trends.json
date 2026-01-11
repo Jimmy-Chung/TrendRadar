@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T13:26:11.686965+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-01-11T14:33:06.605081+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -32,6 +32,17 @@
           "time_info": "[00时25分 ~ 09时53分]"
         },
         {
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 14时33分]"
+        },
+        {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
           "url": "https://wallstreetcn.com/articles/3763015",
           "source": "华尔街见闻",
@@ -42,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时33分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -69,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时16分 ~ 13时26分]"
+          "appearance_count": 13,
+          "time_info": "[03时16分 ~ 14时33分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -162,17 +173,6 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 13时26分]"
-        },
-        {
           "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
           "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
           "source": "凤凰网",
@@ -181,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 14时33分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -193,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 14时33分]"
         },
         {
           "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
@@ -204,11 +204,12 @@
             6,
             14,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 14时33分]"
         },
         {
           "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
@@ -218,11 +219,12 @@
             7,
             15,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 14时33分]"
         },
         {
           "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
@@ -232,11 +234,12 @@
             8,
             16,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 14时33分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -248,8 +251,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 14时33分]"
         },
         {
           "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
@@ -258,11 +261,25 @@
           "ranks": [
             4,
             11,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 14时33分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -327,18 +344,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时51分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 13时26分]"
         },
         {
           "title": "特朗普被曝已听取打击伊朗方案汇报",
@@ -411,6 +416,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 11时51分]"
+        },
+        {
+          "title": "意大利总理：不同意特朗普许多做法",
+          "url": "https://www.toutiao.com/trending/7593680373650358291/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "特朗普宣布进入国家紧急状态",
@@ -489,8 +505,22 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时33分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 14时33分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -519,19 +549,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时30分 ~ 07时20分]"
-        },
-        {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时26分]"
         }
       ]
     },
