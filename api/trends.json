@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T17:30:39.528089+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-01-14T18:26:06.744284+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 17时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 18时26分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -131,6 +131,17 @@
           "time_info": "[12时18分 ~ 17时30分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 18时26分]"
+        },
+        {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
           "url": "https://wallstreetcn.com/livenews/3036368",
           "source": "华尔街见闻-快讯",
@@ -173,17 +184,6 @@
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -322,6 +322,18 @@
           "time_info": "[04时25分 ~ 05时22分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 18时26分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -438,6 +450,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 04时26分]"
+        },
+        {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
@@ -723,17 +748,6 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
-        },
-        {
           "title": "美国总统特朗普：提高401k退休金计划的普及率对我来说非常重要。",
           "url": "https://flash.jin10.com/detail/20260114031811818800",
           "source": "金十数据",
@@ -843,18 +857,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 05时22分]"
-        },
-        {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时30分]"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -1211,8 +1213,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 17时30分]"
+          "appearance_count": 15,
+          "time_info": "[09时48分 ~ 18时26分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1299,6 +1301,18 @@
           "time_info": "[03时21分 ~ 04时26分]"
         },
         {
+          "title": "携程美股盘前下跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3036845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 18时26分]"
+        },
+        {
           "title": "携程(TCOM.O)美股盘前下跌7.3%。",
           "url": "https://flash.jin10.com/detail/20260114170230347800",
           "source": "金十数据",
@@ -1320,17 +1334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
-        },
-        {
-          "title": "携程美股盘前下跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3036845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
@@ -1438,11 +1441,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时30分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
@@ -1719,8 +1723,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时26分]"
         }
       ]
     }
