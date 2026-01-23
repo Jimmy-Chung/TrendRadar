@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T14:36:16.326266+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-01-23T15:26:40.411820+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 100,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 14时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时26分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -78,6 +78,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时36分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 15时26分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -103,18 +115,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 09时46分]"
-        },
-        {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 14时36分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -147,15 +147,28 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 15时26分]"
+        },
+        {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
           "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 15时26分]"
         },
         {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
@@ -170,18 +183,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时34分 ~ 09时46分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 14时36分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -213,6 +214,18 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 15时26分]"
+        },
+        {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
           "url": "https://wallstreetcn.com/articles/3763851",
           "source": "华尔街见闻",
@@ -222,17 +235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时29分]"
-        },
-        {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -326,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -528,6 +541,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3042688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "特朗普起诉美国最大银行",
           "url": "https://www.douyin.com/hot/2376663",
           "source": "抖音",
@@ -603,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -1125,7 +1160,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1291,6 +1326,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3042182",
           "source": "华尔街见闻-快讯",
@@ -1403,6 +1449,171 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "以媒称美近日或袭伊朗",
+          "url": "https://www.douyin.com/hot/2376219",
+          "source": "抖音",
+          "ranks": [
+            13,
+            21,
+            24,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 15时26分]"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 15时26分]"
+        },
+        {
+          "title": "外交部：中方希望伊朗保持国家稳定",
+          "url": "https://wallstreetcn.com/livenews/3042689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "美军对伊朗开战进入倒计时了吗",
+          "url": "https://www.toutiao.com/trending/7598386191951466003/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "伊朗议长称该国所有城市已恢复和平",
+          "url": "https://wallstreetcn.com/livenews/3042180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3042165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
+          "url": "https://wallstreetcn.com/livenews/3042190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
+          "url": "https://flash.jin10.com/detail/20260123000407972800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
+          "url": "https://wallstreetcn.com/livenews/3042255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时28分]"
+        },
+        {
+          "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
+          "url": "https://flash.jin10.com/detail/20260123151617900800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
+          "url": "https://flash.jin10.com/detail/20260123000148990800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
+          "url": "https://flash.jin10.com/detail/20260123150451290800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1474,136 +1685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时22分]"
-        },
-        {
-          "title": "以媒称美近日或袭伊朗",
-          "url": "https://www.douyin.com/hot/2376219",
-          "source": "抖音",
-          "ranks": [
-            13,
-            21,
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 14时36分]"
-        },
-        {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
-        },
-        {
-          "title": "美军对伊朗开战进入倒计时了吗",
-          "url": "https://www.toutiao.com/trending/7598386191951466003/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
-        },
-        {
-          "title": "伊朗议长称该国所有城市已恢复和平",
-          "url": "https://wallstreetcn.com/livenews/3042180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3042165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
-          "url": "https://wallstreetcn.com/livenews/3042190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
-          "url": "https://flash.jin10.com/detail/20260123000407972800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
-          "url": "https://wallstreetcn.com/livenews/3042255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时28分]"
-        },
-        {
-          "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
-          "url": "https://flash.jin10.com/detail/20260123000148990800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
         }
       ]
     },
@@ -1758,11 +1839,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时24分 ~ 14时36分]"
+          "appearance_count": 10,
+          "time_info": "[05时24分 ~ 15时26分]"
         },
         {
           "title": "泡泡玛特“电子木鱼”爆火",
@@ -1837,6 +1919,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 15时26分]"
+        },
+        {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
           "url": "https://wallstreetcn.com/livenews/3042270",
           "source": "华尔街见闻-快讯",
@@ -1848,17 +1942,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时24分]"
-        },
-        {
-          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
-          "url": "https://www.cls.cn/detail/2267470",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
         }
       ]
     },
@@ -1876,8 +1959,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 15时26分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -1947,8 +2030,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时26分]"
         }
       ]
     },
