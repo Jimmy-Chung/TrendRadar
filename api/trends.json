@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T19:24:20.186503+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-01-28T20:51:50.075322+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 81,
       "titles": [
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时45分 ~ 19时24分]"
+          "appearance_count": 11,
+          "time_info": "[11时45分 ~ 20时51分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -82,6 +83,18 @@
           "time_info": "[13时28分 ~ 19时24分]"
         },
         {
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时51分]"
+        },
+        {
           "title": "特朗普，两天内动手？",
           "url": "https://news.ifeng.com/c/8qGwey6pidp",
           "source": "凤凰网",
@@ -131,17 +144,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时39分 ~ 04时26分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -211,6 +213,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "策略师：新美联储主席或更顺从特朗普 这将强化黄金涨势",
+          "url": "https://flash.jin10.com/detail/20260128204309206800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "特朗普再发声威胁：希望伊朗能“回到谈判桌前”",
+          "url": "https://wallstreetcn.com/livenews/3045595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -463,6 +498,39 @@
           "time_info": "05时19分"
         },
         {
+          "title": "特朗普再对伊朗放出威胁",
+          "url": "https://www.douyin.com/hot/2382486",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的通话中，多次提及俄罗斯总统普京与乌克兰总统泽连斯基会晤的问题。特朗普曾建议我们考虑这种可能性，我们并不拒绝接触。",
+          "url": "https://flash.jin10.com/detail/20260128202218221800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "特朗普：下次对伊朗的打击将更猛烈",
+          "url": "https://www.toutiao.com/trending/7600297879542399019/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "特朗普：我不认为美元贬值太多。",
           "url": "https://flash.jin10.com/detail/20260128044932917800",
           "source": "金十数据",
@@ -540,6 +608,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "特朗普警告：对伊朗下一次袭击将更严重",
+          "url": "https://flash.jin10.com/detail/20260128202043461800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "美国总统特朗普谈及联邦执法人员在明尼苏达州枪杀Pretti事件，声称：正进行“大规模的”调查。 我将观看调查（过程/结果）。",
           "url": "https://wallstreetcn.com/livenews/3044915",
           "source": "华尔街见闻-快讯",
@@ -590,7 +669,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -661,6 +740,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "美国总统特朗普：一支庞大的舰队正快速驶向伊朗，规模比派往委内瑞拉的舰队更大。",
+          "url": "https://flash.jin10.com/detail/20260128201559045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "德国央行行长：欧洲央行在制定货币政策时必须密切留意特朗普论调的外溢性",
           "url": "https://wallstreetcn.com/livenews/3044929",
           "source": "华尔街见闻-快讯",
@@ -694,6 +784,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "美国总统特朗普：下一次对伊朗的袭击将比对核设施的袭击更糟。",
+          "url": "https://flash.jin10.com/detail/20260128201504330800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
           "url": "https://flash.jin10.com/detail/20260128002342619800",
           "source": "金十数据",
@@ -716,6 +817,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "美国总统特朗普：一支“庞大舰队”正迅速驶向伊朗，伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260128201349567800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260128053943397800",
           "source": "金十数据",
@@ -725,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗的下一次袭击将严重得多。",
+          "url": "https://flash.jin10.com/detail/20260128201325185800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "市场消息：美国总统特朗普叫停的玛莎葡萄园岛（Martha' s Vineyard）风力发电项目被法官重启。",
@@ -747,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普：希望伊朗能尽快“坐到谈判桌前”，伊朗的时间不多了。",
+          "url": "https://flash.jin10.com/detail/20260128201304078800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "美国总统特朗普：我们与叙利亚共同解决了一个巨大的问题。",
@@ -796,7 +930,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -944,6 +1078,28 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "伊朗总统宣布启动紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3045592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "土耳其外交部消息人士：土耳其和伊朗外长通过电话就缓解地区紧张局势进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260128203120306800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "伊朗召见意大利大使 抗议意方发表反伊朗革命卫队言论",
           "url": "https://wallstreetcn.com/livenews/3044990",
           "source": "华尔街见闻-快讯",
@@ -1067,7 +1223,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1078,7 +1234,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1133,7 +1289,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1158,6 +1314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "解读伊朗多重危机背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%BC%8A%E6%9C%97%E5%A4%9A%E9%87%8D%E5%8D%B1%E6%9C%BA%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "伊朗与卡塔尔两国外长通话 强调推进外交努力维护地区稳定",
@@ -1196,7 +1363,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1299,6 +1466,18 @@
           "time_info": "05时19分"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时51分]"
+        },
+        {
           "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3045008",
           "source": "华尔街见闻-快讯",
@@ -1335,17 +1514,6 @@
           "time_info": "[02时39分 ~ 03时27分]"
         },
         {
-          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
           "url": "https://wallstreetcn.com/livenews/3045316",
           "source": "华尔街见闻-快讯",
@@ -1355,6 +1523,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "康宁美股盘前下挫，现跌超5%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "康宁四季度核心销售额为44.1亿美元，预估43.6亿美元。 四季度核心每股收益0.72美元，预估0.7美元。 康宁预计第一季度核心销售额为42亿至43亿美元，市场预估42.5亿美元。 康宁预计第一季度核心每股收益0.66-0.7美元，市场预估67美元。 康宁美股盘前涨幅收窄至2%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
@@ -1412,6 +1602,28 @@
           "time_info": "17时35分"
         },
         {
+          "title": "AT&T第四季度营收335亿美元，预估328.3亿美元。 第四季度调整后EBITDA 112亿美元，预估111.1亿美元。 第四季度调整后每股收益0.52美元，预估0.46美元。 第四季度自由现金流42亿美元。 AT&T预计2026年自由现金流至少180亿美元。 AT&T美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3045563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "GE Vernova美股盘前涨超7%，公司四季度营收超预期",
+          "url": "https://wallstreetcn.com/livenews/3045562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "美股半导体指数涨2.4%，创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3044981",
           "source": "华尔街见闻-快讯",
@@ -1421,6 +1633,178 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 19时24分]"
+        },
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[02时39分 ~ 17时35分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 15时27分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 20时51分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 17时35分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时27分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时24分]"
+        },
+        {
+          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
+          "url": "https://wallstreetcn.com/livenews/3045543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
+          "url": "https://wallstreetcn.com/livenews/3045007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 07时23分]"
+        },
+        {
+          "title": "专家谈国际金价加速上涨的背后逻辑",
+          "url": "https://www.toutiao.com/trending/7600335568035122738/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时51分]"
+        },
+        {
+          "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
+          "url": "https://wallstreetcn.com/livenews/3045204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）上海金早盘价为1168.09元/克，较国际金价(1167.41元/克)，高0.68元/克",
+          "url": "https://flash.jin10.com/detail/20260128110216256800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     },
@@ -1437,8 +1821,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时48分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 20时51分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -1565,155 +1949,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 19时24分]"
-        },
-        {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时39分 ~ 17时35分]"
-        },
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 15时27分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 19时24分]"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时35分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 15时27分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时24分]"
-        },
-        {
-          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
-          "url": "https://wallstreetcn.com/livenews/3045543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
-          "url": "https://wallstreetcn.com/livenews/3045007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
-          "url": "https://wallstreetcn.com/livenews/3045204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）上海金早盘价为1168.09元/克，较国际金价(1167.41元/克)，高0.68元/克",
-          "url": "https://flash.jin10.com/detail/20260128110216256800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "专家谈国际金价加速上涨的背后逻辑",
-          "url": "https://www.toutiao.com/trending/7600335568035122738/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         }
       ]
     },
@@ -1960,6 +2195,69 @@
       ]
     },
     {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金属和内存涨价“双杀”！瑞银：电动车企利润将完全被吞噬",
+          "url": "https://wallstreetcn.com/articles/3764233",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时44分]"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "SK海力士：HBM营收同比增长超一倍。",
+          "url": "https://wallstreetcn.com/livenews/3045389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "SK海力士满足了英伟达三分之二的HBM4需求。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3045075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "SK海力士第四季度销售额32.83万亿韩元，预期31.3万亿韩元。 第四季度营业利润为19.17万亿韩元，预期16.69万亿韩元。 SK海力士全年营业利润47.2万亿韩元，全年销售额97.1万亿韩元。 SK海力士继续考虑美国上市，尚未作出决定。 SK海力士称HBM4大规模量产工作正按计划推进，第四季度增长势头进一步增强。",
+          "url": "https://wallstreetcn.com/livenews/3045383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -2014,58 +2312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金属和内存涨价“双杀”！瑞银：电动车企利润将完全被吞噬",
-          "url": "https://wallstreetcn.com/articles/3764233",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时44分]"
-        },
-        {
-          "title": "SK海力士：HBM营收同比增长超一倍。",
-          "url": "https://wallstreetcn.com/livenews/3045389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "SK海力士满足了英伟达三分之二的HBM4需求。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3045075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "SK海力士第四季度销售额32.83万亿韩元，预期31.3万亿韩元。 第四季度营业利润为19.17万亿韩元，预期16.69万亿韩元。 SK海力士全年营业利润47.2万亿韩元，全年销售额97.1万亿韩元。 SK海力士继续考虑美国上市，尚未作出决定。 SK海力士称HBM4大规模量产工作正按计划推进，第四季度增长势头进一步增强。",
-          "url": "https://wallstreetcn.com/livenews/3045383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         }
       ]
     },
