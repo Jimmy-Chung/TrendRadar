@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T07:25:48.855741+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-02-02T10:09:35.906656+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时09分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -168,15 +168,27 @@
           "time_info": "[05时24分 ~ 07时25分]"
         },
         {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://news.ifeng.com/c/8qMd74BpD5R",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 10时09分]"
         },
         {
           "title": "特朗普：原本可解决拖欠联合国会费的问题",
@@ -191,13 +203,24 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://wallstreetcn.com/livenews/3047836",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -208,9 +231,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
+          "url": "https://www.cls.cn/detail/2276706",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "特朗普称希望与伊朗“能够达成协议”",
@@ -219,7 +253,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -227,7 +261,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
@@ -357,6 +391,17 @@
           "time_info": "[05时24分 ~ 07时25分]"
         },
         {
+          "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
+          "url": "https://news.ifeng.com/c/8qOoftoUdPj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "以总理内塔尼亚胡与高级官员讨论伊朗紧张局势",
           "url": "https://wallstreetcn.com/livenews/3047831",
           "source": "华尔街见闻-快讯",
@@ -375,7 +420,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -386,7 +431,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -397,26 +442,38 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
           "url": "https://wallstreetcn.com/articles/3764687",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时09分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -433,21 +490,65 @@
           "time_info": "[01时24分 ~ 07时25分]"
         },
         {
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "金价暴跌后回收变现火爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "金价震荡 多家银行发布风险提示",
+          "url": "https://www.toutiao.com/trending/7601831569082859583/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "金价下跌30克金镯2天降价6000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%85%8B%E9%87%91%E9%95%AF2%E5%A4%A9%E9%99%8D%E4%BB%B76000%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -456,9 +557,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
@@ -467,7 +579,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -478,7 +590,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -522,11 +634,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时09分]"
         }
       ]
     },
@@ -539,11 +652,12 @@
           "url": "https://wallstreetcn.com/articles/3764683",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时09分]"
         }
       ]
     },
@@ -557,11 +671,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 10时09分]"
         }
       ]
     }
