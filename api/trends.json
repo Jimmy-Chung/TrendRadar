@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T16:43:20.022435+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-02-05T17:44:56.364648+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 16时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时48分 ~ 17时44分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时45分 ~ 16时43分]"
+          "appearance_count": 19,
+          "time_info": "[01时45分 ~ 17时44分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -439,8 +439,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 17时44分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -449,11 +449,12 @@
           "ranks": [
             14,
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时47分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时47分 ~ 17时44分]"
         },
         {
           "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
@@ -523,7 +524,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -718,7 +719,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -843,6 +844,18 @@
           "time_info": "[00时48分 ~ 00时49分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时44分]"
+        },
+        {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260205050532468800",
           "source": "金十数据",
@@ -891,6 +904,17 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
+          "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260205173627035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "Ciena美股盘后涨超8%。",
           "url": "https://flash.jin10.com/detail/20260205062053364800",
           "source": "金十数据",
@@ -911,17 +935,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。",
@@ -1004,18 +1017,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 17时44分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1037,11 +1051,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 17时44分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -1165,6 +1180,17 @@
           "time_info": "[05时33分 ~ 07时28分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 17时44分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
           "url": "https://wallstreetcn.com/livenews/3050117",
           "source": "华尔街见闻-快讯",
@@ -1187,17 +1213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时43分]"
         },
         {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
@@ -1245,6 +1260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3050540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -1346,7 +1372,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }
@@ -1378,6 +1404,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里巴巴 美团",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美团：拟7.17亿美元收购叮咚买菜",
+          "url": "https://wallstreetcn.com/livenews/3050546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "阿里巴巴大模型品牌统一为千问",
+          "url": "https://wallstreetcn.com/livenews/3050366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
@@ -1422,8 +1476,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 17时44分]"
         }
       ]
     },
@@ -1458,23 +1512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 00时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里巴巴 美团",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里巴巴大模型品牌统一为千问",
-          "url": "https://wallstreetcn.com/livenews/3050366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         }
       ]
     },
