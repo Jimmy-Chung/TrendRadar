@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T15:53:17.173148+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-02-12T16:48:14.309668+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时56分 ~ 15时53分]"
+          "appearance_count": 14,
+          "time_info": "[01时56分 ~ 16时48分]"
         },
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -51,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 16时48分]"
         },
         {
           "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
@@ -67,8 +68,75 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 16时48分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时58分 ~ 15时53分]"
+          "time_info": "[15时52分 ~ 16时48分]"
+        },
+        {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://www.toutiao.com/trending/7605620935953956906/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 16时48分]"
         },
         {
           "title": "墨西哥比索触及日内低点，此前墨西哥总统辛鲍姆称，不认为特朗普会退出《美墨加协定》。",
@@ -232,15 +300,15 @@
           "time_info": "[14时07分 ~ 15时53分]"
         },
         {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
+          "time_info": "[16时47分 ~ 16时48分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -287,17 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "特朗普关税政策正迎来新的挑战",
@@ -698,8 +755,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[07时32分 ~ 16时48分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -712,6 +769,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时32分]"
+        },
+        {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 16时48分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -762,19 +832,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时32分 ~ 14时07分]"
-        },
-        {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 15时53分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -1076,8 +1133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 15时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时48分]"
         },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -1100,8 +1157,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 15时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时48分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时30分 ~ 16时48分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1115,20 +1186,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 10时11分]"
-        },
-        {
-          "title": "DeepSeek新模型来了？",
-          "url": "https://wallstreetcn.com/articles/3765514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时30分 ~ 15时53分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
@@ -1153,6 +1210,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "内存告急!老黄26年断更新卡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350528&amp;topic_name=%E5%86%85%E5%AD%98%E5%91%8A%E6%80%A5%21%E8%80%81%E9%BB%8426%E5%B9%B4%E6%96%AD%E6%9B%B4%E6%96%B0%E5%8D%A1",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时11分]"
+        },
+        {
+          "title": "证实NAND超级周期？存储巨头铠侠全年利润指引高出共识60%，Q3净利润878.1亿日元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765583",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "证实NAND超级周期？日本存储巨头铠侠全年利润指引高出共识60%，Q3净利润878.1亿日元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765583",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "铠侠：预计2026年NAND供应将“极度紧张”。",
+          "url": "https://flash.jin10.com/detail/20260212153121308800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "铠侠：将继续保持财务上负责任的资本支出。 预计2026年NAND供应将“极度紧张”。 正在应对客户关于多年合约的需求。",
+          "url": "https://wallstreetcn.com/livenews/3054317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "消费内存短缺何时会反转",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B6%88%E8%B4%B9%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E4%BD%95%E6%97%B6%E4%BC%9A%E5%8F%8D%E8%BD%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "思科(CSCO.O) CEO：已宣布上调内存价格，将继续关注市场趋势，并在必要时做出进一步调整。",
+          "url": "https://flash.jin10.com/detail/20260212053647282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         }
       ]
     },
@@ -1216,68 +1357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "内存告急!老黄26年断更新卡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350528&amp;topic_name=%E5%86%85%E5%AD%98%E5%91%8A%E6%80%A5%21%E8%80%81%E9%BB%8426%E5%B9%B4%E6%96%AD%E6%9B%B4%E6%96%B0%E5%8D%A1",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 10时11分]"
-        },
-        {
-          "title": "证实NAND超级周期？日本存储巨头铠侠全年利润指引高出共识60%，Q3净利润878.1亿日元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765583",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
-        },
-        {
-          "title": "铠侠：预计2026年NAND供应将“极度紧张”。",
-          "url": "https://flash.jin10.com/detail/20260212153121308800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
-        },
-        {
-          "title": "铠侠：将继续保持财务上负责任的资本支出。 预计2026年NAND供应将“极度紧张”。 正在应对客户关于多年合约的需求。",
-          "url": "https://wallstreetcn.com/livenews/3054317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
-        },
-        {
-          "title": "思科(CSCO.O) CEO：已宣布上调内存价格，将继续关注市场趋势，并在必要时做出进一步调整。",
-          "url": "https://flash.jin10.com/detail/20260212053647282800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         }
       ]
     },
@@ -1395,11 +1474,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%96%B0%E5%93%81%E8%BF%99%E4%B9%88%E7%81%AB+%E4%B8%BA%E5%95%A5%E8%82%A1%E4%BB%B7%E8%BF%98%E6%98%AF%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时48分]"
         }
       ]
     },
