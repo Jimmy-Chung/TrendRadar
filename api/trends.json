@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T15:55:11.137623+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-02-16T16:49:32.760148+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -106,11 +106,23 @@
           "url": "https://flash.jin10.com/detail/20260216155000444800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时49分]"
+        },
+        {
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 16时49分]"
         },
         {
           "title": "伊朗外长及代表团已出发前往日内瓦 准备与美国开展新一轮会谈",
@@ -136,17 +148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 07时27分]"
-        },
-        {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 15时55分]"
         },
         {
           "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
@@ -214,8 +215,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时49分]"
         },
         {
           "title": "伊朗高官：愿与美国达成为双方带来经济利益的核协议",
@@ -336,6 +337,18 @@
           "time_info": "[00时31分 ~ 04时27分]"
         },
         {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时49分]"
+        },
+        {
           "title": "市场消息：据报道，特朗普政府最高制裁官员约翰·赫尔利即将卸任负责恐怖主义和金融情报的副部长一职，原因是他与财政部长斯科特·贝森特关系紧张，目前正在讨论他可能出任大使一职。",
           "url": "https://flash.jin10.com/detail/20260216044651803800",
           "source": "金十数据",
@@ -360,17 +373,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 07时27分]"
-        },
-        {
-          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
@@ -428,6 +430,20 @@
           "time_info": "[00时31分 ~ 14时10分]"
         },
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 16时49分]"
+        },
+        {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
           "url": "https://flash.jin10.com/detail/20260216045621525800",
           "source": "金十数据",
@@ -441,30 +457,6 @@
           "time_info": "[05时25分 ~ 07时27分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时55分]"
-        },
-        {
-          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
-          "url": "https://flash.jin10.com/detail/20260216153508680800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
-        },
-        {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
           "url": "https://flash.jin10.com/detail/20260216054636166800",
           "source": "金十数据",
@@ -475,6 +467,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时27分]"
+        },
+        {
+          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
+          "url": "https://flash.jin10.com/detail/20260216153508680800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时49分]"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -494,11 +498,12 @@
           "url": "https://flash.jin10.com/detail/20260216153347079800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时49分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -598,11 +603,12 @@
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时49分]"
         },
         {
           "title": "避险模式！大摩：市场开始买美债了",
@@ -642,8 +648,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 15时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 16时49分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
