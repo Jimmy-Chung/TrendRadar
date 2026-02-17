@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:58:27.812959+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-02-17T15:05:11.640671+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,17 @@
           "time_info": "[03时32分 ~ 07时30分]"
         },
         {
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时05分]"
+        },
+        {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3055802",
           "source": "华尔街见闻-快讯",
@@ -35,17 +46,6 @@
           "time_info": "[01时37分 ~ 04时32分]"
         },
         {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时58分]"
-        },
-        {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
           "url": "https://wallstreetcn.com/livenews/3055815",
           "source": "华尔街见闻-快讯",
@@ -57,6 +57,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 05时29分]"
+        },
+        {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时05分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时05分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -124,6 +152,19 @@
           "time_info": "[03时32分 ~ 05时29分]"
         },
         {
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -137,19 +178,6 @@
           "time_info": "[00时43分 ~ 02时43分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时58分]"
-        },
-        {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
           "source": "澎湃新闻",
@@ -160,19 +188,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时29分 ~ 10时06分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时58分]"
         },
         {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
@@ -199,18 +214,6 @@
           "time_info": "[01时37分 ~ 02时43分]"
         },
         {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
           "url": "https://flash.jin10.com/detail/20260216234427683800",
           "source": "金十数据",
@@ -235,6 +238,18 @@
           "time_info": "[01时37分 ~ 02时43分]"
         },
         {
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时05分]"
+        },
+        {
           "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
           "url": "https://flash.jin10.com/detail/20260217122724799800",
           "source": "金十数据",
@@ -244,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -308,8 +312,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时05分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时05分]"
+        },
+        {
+          "title": "伊朗外长与美谈判前夕强调不屈服",
+          "url": "https://wallstreetcn.com/livenews/3055875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时05分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗国家石油公司表示，印度扣押的三艘船只与伊朗毫无关联。",
@@ -349,30 +379,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时43分 ~ 02时43分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
-          "title": "伊朗外长与美谈判前夕强调不屈服",
-          "url": "https://wallstreetcn.com/livenews/3055875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时58分]"
         },
         {
           "title": "伊朗大秀肌肉回应美国施压",
@@ -527,8 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 15时05分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -592,8 +598,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -603,11 +609,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时43分 ~ 13时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 15时05分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -653,7 +660,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
