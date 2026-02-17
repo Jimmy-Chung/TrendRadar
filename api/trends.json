@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T10:06:34.255115+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-02-17T12:53:05.356367+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -113,6 +113,17 @@
           "time_info": "[03时32分 ~ 05时29分]"
         },
         {
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 12时53分]"
+        },
+        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -150,17 +161,6 @@
           "time_info": "[03时32分 ~ 04时32分]"
         },
         {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
           "url": "https://flash.jin10.com/detail/20260217003445113800",
           "source": "金十数据",
@@ -185,6 +185,18 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 12时53分]"
+        },
+        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -197,26 +209,38 @@
           "time_info": "[01时37分 ~ 02时43分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3055860",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 12时53分]"
+        },
+        {
+          "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
+          "url": "https://flash.jin10.com/detail/20260217122724799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -233,7 +257,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -261,6 +285,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时37分 ~ 05时29分]"
+        },
+        {
+          "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
+          "url": "https://news.ifeng.com/c/8qnQ5gsQzx8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 12时53分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗国家石油公司表示，印度扣押的三艘船只与伊朗毫无关联。",
@@ -302,6 +337,17 @@
           "time_info": "[00时43分 ~ 02时43分]"
         },
         {
+          "title": "伊朗外长与美谈判前夕强调不屈服",
+          "url": "https://wallstreetcn.com/livenews/3055875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
           "title": "伊朗大秀肌肉回应美国施压",
           "url": "https://www.toutiao.com/trending/7607336004873096742/",
           "source": "今日头条",
@@ -312,17 +358,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时32分 ~ 07时30分]"
-        },
-        {
-          "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
-          "url": "https://news.ifeng.com/c/8qnQ5gsQzx8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         },
         {
           "title": "美伊谈判前夕美军加强部署 伊朗政权不确定性加剧战略风险",
@@ -349,6 +384,17 @@
           "time_info": "[01时37分 ~ 02时43分]"
         },
         {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
           "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
           "url": "https://flash.jin10.com/detail/20260217042820518800",
           "source": "金十数据",
@@ -361,13 +407,24 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
+          "title": "媒体人：伊朗弹道导弹反击已在准备中",
+          "url": "https://www.toutiao.com/trending/7607630757841866246/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
           "title": "评论员：伊朗正在准备大量弹道导弹",
           "url": "https://www.toutiao.com/trending/7607604641685048851/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -450,11 +507,24 @@
           "url": "https://wallstreetcn.com/articles/3765796",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 12时53分]"
+        },
+        {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 12时53分]"
         },
         {
           "title": "避险模式！大摩：市场开始买美债了",
@@ -463,18 +533,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -513,11 +572,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 10时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 12时53分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -530,8 +590,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 10时06分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 12时53分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
