@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T18:04:08.255370+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-02-24T18:52:56.574362+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -133,6 +133,29 @@
           "time_info": "[02时02分 ~ 04时45分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 18时52分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
           "source": "澎湃新闻",
@@ -158,27 +181,17 @@
           "time_info": "[02时02分 ~ 03时57分]"
         },
         {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
           "ranks": [
-            7,
-            1
+            12,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时04分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 18时52分]"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -216,17 +229,15 @@
           "time_info": "[14时00分 ~ 15时17分]"
         },
         {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
           "ranks": [
-            12,
-            10,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时04分]"
+          "time_info": "[16时50分 ~ 18时52分]"
         },
         {
           "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
@@ -275,15 +286,16 @@
           "time_info": "[03时56分 ~ 04时45分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时04分]"
+          "time_info": "[18时03分 ~ 18时52分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
@@ -344,6 +356,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 02时03分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E5%AE%9C%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时52分]"
         },
         {
           "title": "联邦快递起诉美国，在最高法院推翻总统特朗普关税政策之后寻求政府全额退款。",
@@ -434,17 +458,6 @@
           "time_info": "[07时32分 ~ 07时35分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
-        },
-        {
           "title": "市场消息：特朗普10%的全球关税生效。",
           "url": "https://flash.jin10.com/detail/20260224130528485800",
           "source": "金十数据",
@@ -500,18 +513,6 @@
           "time_info": "[07时32分 ~ 07时35分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E5%AE%9C%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 18时04分]"
-        },
-        {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
           "url": "https://wallstreetcn.com/livenews/3057674",
           "source": "华尔街见闻-快讯",
@@ -554,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "市场消息：特朗普正研究推出新的退休储蓄计划，可能在国情咨文中谈及退休储蓄计划。",
@@ -688,6 +700,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E5%AE%9C%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
           "url": "https://wallstreetcn.com/livenews/3057558",
           "source": "华尔街见闻-快讯",
@@ -702,7 +725,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -714,8 +737,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时32分 ~ 18时04分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 18时52分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -752,11 +775,26 @@
             8,
             7,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 18时04分]"
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 18时52分]"
+        },
+        {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 18时52分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -768,19 +806,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 07时35分]"
-        },
-        {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 18时04分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -866,27 +891,17 @@
           "time_info": "[03时56分 ~ 04时45分]"
         },
         {
-          "title": "美国持续集结兵力考虑军事打击伊朗",
-          "url": "https://www.toutiao.com/trending/7609503760267788342/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 12时52分]"
-        },
-        {
           "title": "伊朗：战争的后果将“波及整个地区”",
           "url": "https://www.toutiao.com/trending/7609899439436021823/",
           "source": "今日头条",
           "ranks": [
             25,
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 18时52分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -896,8 +911,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 18时52分]"
+        },
+        {
+          "title": "美国持续集结兵力考虑军事打击伊朗",
+          "url": "https://www.toutiao.com/trending/7609503760267788342/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
         },
         {
           "title": "内塔尼亚胡警告伊朗",
@@ -944,6 +970,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "阿联酋与伊朗外长讨论地区局势发展。",
           "url": "https://wallstreetcn.com/livenews/3057644",
           "source": "华尔街见闻-快讯",
@@ -980,7 +1017,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -991,8 +1028,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 18时04分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 18时52分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -1005,8 +1042,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 18时04分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 18时52分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -1056,8 +1093,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 18时04分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时52分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -1082,6 +1119,19 @@
           "time_info": "[02时02分 ~ 02时03分]"
         },
         {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时52分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
           "url": "https://wallstreetcn.com/livenews/3057665",
           "source": "华尔街见闻-快讯",
@@ -1091,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "台积电(TSM.N)美股盘前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260224183649162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -1136,18 +1197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时44分]"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时04分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -1263,8 +1312,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 18时04分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时52分]"
         },
         {
           "title": "国家是否应开办字节大学，腾讯大学，阿里大学，拼多多大学，美团大学等高校教书育人?",
@@ -1303,19 +1352,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时04分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时52分]"
         },
         {
           "title": "中方回应美称DeepSeek违反出口管制",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时52分]"
         }
       ]
     },
