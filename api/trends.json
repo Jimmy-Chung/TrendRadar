@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T10:06:17.128339+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-02-24T12:52:33.481566+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -57,6 +57,19 @@
           "time_info": "[01时12分 ~ 05时44分]"
         },
         {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时52分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
           "url": "https://wallstreetcn.com/livenews/3057600",
           "source": "华尔街见闻-快讯",
@@ -70,16 +83,15 @@
           "time_info": "[02时02分 ~ 04时45分]"
         },
         {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
-          "source": "凤凰网",
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
         },
         {
           "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
@@ -94,17 +106,6 @@
           "time_info": "[02时02分 ~ 03时57分]"
         },
         {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
           "url": "https://wallstreetcn.com/livenews/3057619",
           "source": "华尔街见闻-快讯",
@@ -116,6 +117,18 @@
           "time_info": "[03时56分 ~ 03时57分]"
         },
         {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
+        },
+        {
           "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
           "url": "https://flash.jin10.com/detail/20260224051242405800",
           "source": "金十数据",
@@ -125,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
+          "url": "https://flash.jin10.com/detail/20260224123615325800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
@@ -148,6 +172,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时44分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
         },
         {
           "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
@@ -233,28 +281,6 @@
           "time_info": "[07时32分 ~ 07时35分]"
         },
         {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
           "title": "美国总统特朗普将于周五访问德克萨斯州Corpus Christi，发表“以能源和经济为主题”的演讲。（MS Now）",
           "url": "https://wallstreetcn.com/livenews/3057693",
           "source": "华尔街见闻-快讯",
@@ -264,17 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
@@ -500,7 +515,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -533,11 +548,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时06分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 12时52分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -592,11 +608,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时52分]"
         },
         {
           "title": "伊朗",
@@ -627,11 +644,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
         },
         {
           "title": "美国持续集结兵力考虑军事打击伊朗",
@@ -641,8 +659,30 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
+        },
+        {
+          "title": "内塔尼亚胡警告伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "内塔尼亚胡警告伊朗",
+          "url": "https://www.douyin.com/hot/2409895",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
@@ -692,7 +732,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -701,11 +741,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 10时06分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 12时52分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -724,11 +765,35 @@
           "source": "财联社热门",
           "ranks": [
             12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时52分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时52分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -742,17 +807,6 @@
           "time_info": "[07时32分 ~ 07时35分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015251428800",
           "source": "金十数据",
@@ -762,17 +816,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 02时03分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -840,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "标普500指数收跌71.76点，跌幅1.04%，报6837.75点。 道琼斯工业平均指数收跌821.91点，跌幅1.66%，报48804.06点。 纳斯达克综合指数（纳指）收跌258.796点，跌幅1.13%，报22627.273点。 纳斯达克100指数收跌303.677点，跌幅1.21%，报24708.942点。 纳斯达克生物科技指数收涨0.58%，报6014.09点。 费城半导体指数收跌0.57%，报8213.457点。 费城证交所KBW银行指数收跌4.40%，报161.73点，美股早盘持续下跌，呈现出长尾L形走势。 道琼斯KBW地区银行指数收跌4.27%，报132.90点。",
@@ -920,7 +974,7 @@
     },
     {
       "keyword_group": "阿里巴巴 美团",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
@@ -943,6 +997,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "国家是否应开办字节大学、腾讯大学、阿里大学、拼多多大学、美团大学等高校教书育人?",
+          "url": "https://www.zhihu.com/question/2008512004835526546",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.95%，报7478.41点。 热门中概股里，网易初步收跌1.7%，百度、小马智行、新东方至少跌约1%，阿里跌0.8%，腾讯、拼多多、小米、理想则至多涨0.9%，比亚迪、美团、百胜中国、文远知行、蔚来至多涨4.5%。 ETF中，中概互联网指数ETF（KWEB）收跌1.28%，中国科技指数ETF（CQQQ）收跌0.50%。 德银嘉实沪深300指数ETF（ASHR）收跌0.26%，XtrackersHarvest中证50（ASHS）收涨0.07%。",
