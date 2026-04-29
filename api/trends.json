@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T12:31:31.974953+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-04-29T15:24:22.082616+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时16分 ~ 15时24分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -59,17 +70,6 @@
           "time_info": "[00时52分 ~ 08时02分]"
         },
         {
-          "title": "伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时16分 ~ 12时31分]"
-        },
-        {
           "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
           "url": "https://www.cls.cn/detail/2358883",
           "source": "财联社热门",
@@ -78,8 +78,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 15时24分]"
+        },
+        {
+          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
+          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时31分]"
+          "time_info": "[12时30分 ~ 15时24分]"
         },
         {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
@@ -115,15 +126,28 @@
           "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
           "ranks": [
-            2
+            6,
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
@@ -135,6 +159,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：伊朗和平协议必须包括霍尔木兹海峡自由通行。",
+          "url": "https://wallstreetcn.com/livenews/3096306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "8岁伊朗男孩回到中国学校 全班沸腾",
+          "url": "https://www.baidu.com/s?wd=8%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AD%A6%E6%A0%A1+%E5%85%A8%E7%8F%AD%E6%B2%B8%E8%85%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 15时24分]"
         },
         {
           "title": "美禁止向伊朗缴纳海峡通行费",
@@ -205,18 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时01分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时31分]"
         },
         {
           "title": "伊朗：美“狂人外交”将世界推向失控",
@@ -331,6 +366,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "伊朗战争丨伊官员：霍尔木兹海峡仅对美以有关船只关闭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "卫星图像显示：伊朗恰巴哈尔港附近海域出现多艘油轮",
           "url": "https://wallstreetcn.com/livenews/3096014",
           "source": "华尔街见闻-快讯",
@@ -353,15 +399,26 @@
           "time_info": "07时01分"
         },
         {
-          "title": "8岁伊朗男孩回到中国学校 全班沸腾",
-          "url": "https://www.baidu.com/s?wd=8%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AD%A6%E6%A0%A1+%E5%85%A8%E7%8F%AD%E6%B2%B8%E8%85%BE",
-          "source": "百度热搜",
+          "title": "日本首相高市早苗：日本将就船只安全通行事宜和伊朗接洽。",
+          "url": "https://wallstreetcn.com/livenews/3096288",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "15时24分"
+        },
+        {
+          "title": "瑞银CEO：市场对伊朗冲突过度乐观",
+          "url": "https://flash.jin10.com/detail/20260429150534593800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "伊朗“蚊子舰队”如何控制海峡",
@@ -422,7 +479,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -432,11 +489,12 @@
             14,
             13,
             11,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 12时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 15时24分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -446,11 +504,36 @@
             17,
             18,
             19,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 12时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 15时24分]"
+        },
+        {
+          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
+          "url": "https://www.cls.cn/detail/2358895",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 15时24分]"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -465,6 +548,17 @@
           "time_info": "[07时01分 ~ 08时02分]"
         },
         {
+          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
+          "url": "https://www.cls.cn/detail/2358925",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 15时24分]"
+        },
+        {
           "title": "据CBS：特朗普政府要求对移民申请者进行更严格的安全审查。",
           "url": "https://flash.jin10.com/detail/20260429062107996800",
           "source": "金十数据",
@@ -477,16 +571,39 @@
           "time_info": "[07时01分 ~ 08时02分]"
         },
         {
-          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
-          "url": "https://www.cls.cn/detail/2358895",
-          "source": "财联社热门",
+          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
+          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时31分]"
+          "time_info": "[12时30分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普再次无视英国王室规矩",
+          "url": "https://www.douyin.com/hot/2482526",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 15时24分]"
         },
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
@@ -498,17 +615,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 02时18分]"
-        },
-        {
-          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
-          "url": "https://www.cls.cn/detail/2358925",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
           "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
@@ -543,50 +649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
-          "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
-          "url": "https://news.ifeng.com/c/8si2qqUHRAp",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普再次无视英国王室规矩",
-          "url": "https://www.douyin.com/hot/2482526",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
           "title": "据美媒Bulwark和福克斯新闻报道，美国国务院正在敲定将特朗普的头像印在美国护照上的计划。",
@@ -733,6 +795,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "英国王嘲讽美国特朗普表情亮了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%83%85%E4%BA%AE%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
           "url": "https://wallstreetcn.com/livenews/3096010",
           "source": "华尔街见闻-快讯",
@@ -769,7 +842,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -808,6 +881,17 @@
           "time_info": "[00时52分 ~ 05时58分]"
         },
         {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 15时24分]"
+        },
+        {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
@@ -820,15 +904,17 @@
           "time_info": "[07时01分 ~ 12时31分]"
         },
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 15时24分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -852,18 +938,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 02时18分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 12时31分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -978,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
@@ -1143,7 +1228,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -1157,13 +1242,24 @@
           "time_info": "[00时52分 ~ 07时01分]"
         },
         {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "DeepSeekV4Pro优惠延期",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
           "source": "bilibili 热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -1228,11 +1324,12 @@
           "url": "https://www.douyin.com/hot/2482875",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 15时24分]"
         },
         {
           "title": "金价换手中枢下移至这一水平，今晚鲍威尔将决定下一站！",
@@ -1273,6 +1370,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 02时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "鲍威尔",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鲍威尔“最后一战”，你真正要盯的是什么？",
+          "url": "https://flash.jin10.com/detail/20260429120653205800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "“鲍威尔时代”的绝唱！美联储利率决议今晚来袭 两大看点不容错过",
+          "url": "https://www.cls.cn/detail/2359379",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -1341,23 +1466,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "鲍威尔",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鲍威尔“最后一战”，你真正要盯的是什么？",
-          "url": "https://flash.jin10.com/detail/20260429120653205800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
         }
       ]
     }
