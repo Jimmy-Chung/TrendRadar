@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T18:05:00.582081+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-05-03T19:43:07.775197+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -43,8 +43,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时05分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 19时43分]"
+        },
+        {
+          "title": "伊朗副外长：球在美国一边，做好两手准备",
+          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时43分 ~ 19时43分]"
+        },
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 19时43分]"
         },
         {
           "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
@@ -72,18 +97,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时43分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗副外长：球在美国一边，做好两手准备",
-          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时43分 ~ 18时05分]"
         },
         {
           "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
@@ -115,16 +128,29 @@
           "time_info": "[00时47分 ~ 04时44分]"
         },
         {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
+          "title": "伊朗最新提出14点终战提议",
+          "url": "https://www.toutiao.com/trending/7635059597182828607/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            3
+            7,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 18时05分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 19时43分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034041465198703020",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 19时43分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相向伊朗外长阿拉格齐强调，关闭霍尔木兹海峡或将其用作施压手段将导致危机加深。",
@@ -181,30 +207,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时43分 ~ 10时53分]"
-        },
-        {
-          "title": "伊朗最新提出14点终战提议",
-          "url": "https://www.toutiao.com/trending/7635059597182828607/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 18时05分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034041465198703020",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 18时05分]"
         },
         {
           "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
@@ -319,6 +321,18 @@
           "time_info": "[16时46分 ~ 18时05分]"
         },
         {
+          "title": "伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方",
+          "url": "https://wallstreetcn.com/livenews/3098263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 19时43分]"
+        },
+        {
           "title": "伊朗一超大型油轮“躲过”美海军追踪 正驶向印尼廖内群岛",
           "url": "https://wallstreetcn.com/livenews/3098239",
           "source": "华尔街见闻-快讯",
@@ -375,17 +389,6 @@
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方",
-          "url": "https://wallstreetcn.com/livenews/3098263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -512,6 +515,50 @@
           "time_info": "[06时41分 ~ 07时43分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：美国的决策空间已受限",
+          "url": "https://wallstreetcn.com/livenews/3098281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "欧洲智库称伊朗战事冲击能源安全 或加剧欧盟内部对俄分歧",
+          "url": "https://wallstreetcn.com/livenews/3098279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
+          "url": "https://wallstreetcn.com/livenews/3098278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：给予五角大楼最后期限解除封锁",
+          "url": "https://flash.jin10.com/detail/20260503184038906800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
           "title": "美学者称伊朗战争让所有人成输家",
           "url": "https://www.toutiao.com/trending/7634351083892064262/",
           "source": "今日头条",
@@ -522,6 +569,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 10时53分]"
+        },
+        {
+          "title": "伊朗与阿曼外长讨论结束战争的倡议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "伊朗常驻联合国代表团：美国公然违反《不扩散核武器条约》",
@@ -536,6 +594,28 @@
           "time_info": "[10时53分 ~ 14时08分]"
         },
         {
+          "title": "伊朗外交部：伊朗外长阿拉格齐向阿曼外长通报伊朗结束战争的努力。",
+          "url": "https://flash.jin10.com/detail/20260503183240457800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "伊朗媒体披露伊方最新谈判方案：14点提议，聚焦终战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093964",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
           "title": "伊朗一超大型油轮躲过美海军追踪",
           "url": "https://www.toutiao.com/trending/7635519583500173331/",
           "source": "今日头条",
@@ -545,6 +625,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗一超大型油轮突破了美国封锁",
+          "url": "https://flash.jin10.com/detail/20260503175016375800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "伊朗公布伊方最新谈判方案",
@@ -613,6 +704,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "伊朗称美以袭击导致1214所学校受损",
+          "url": "https://www.toutiao.com/trending/7634734896289120265/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "伊朗副议长：议会将批准“霍尔木兹海峡管理法”",
           "url": "https://wallstreetcn.com/livenews/3098202",
           "source": "华尔街见闻-快讯",
@@ -638,7 +740,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -662,8 +764,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时05分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 19时43分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -693,6 +795,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时43分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 19时43分]"
         },
         {
           "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
@@ -737,11 +850,12 @@
             7,
             8,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时05分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 19时43分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -749,11 +863,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时47分 ~ 18时05分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 19时43分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -781,17 +896,6 @@
           "time_info": "[00时47分 ~ 10时53分]"
         },
         {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 18时05分]"
-        },
-        {
           "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
           "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
           "source": "凤凰网",
@@ -799,8 +903,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 18时05分]"
+          "appearance_count": 7,
+          "time_info": "[14时08分 ~ 19时43分]"
+        },
+        {
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时08分 ~ 19时43分]"
         },
         {
           "title": "特朗普政府新规生效后 超三百万人失去联邦食品援助",
@@ -830,6 +947,32 @@
           "time_info": "[00时47分 ~ 03时57分]"
         },
         {
+          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时08分 ~ 19时43分]"
+        },
+        {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时08分 ~ 19时43分]"
+        },
+        {
           "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
           "url": "https://wallstreetcn.com/livenews/3098148",
           "source": "华尔街见闻-快讯",
@@ -856,6 +999,19 @@
           "time_info": "[00时47分 ~ 03时57分]"
         },
         {
+          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
+          "url": "https://wallstreetcn.com/livenews/3098259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时46分 ~ 19时43分]"
+        },
+        {
           "title": "特朗普的白宫贸易顾问纳瓦罗纳瓦罗：美联储主席任期于5月15日届满时，鲍威尔就应该“滚出”美国华盛顿特区。",
           "url": "https://wallstreetcn.com/livenews/3098184",
           "source": "华尔街见闻-快讯",
@@ -869,56 +1025,6 @@
           "time_info": "[04时43分 ~ 07时43分]"
         },
         {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 18时05分]"
-        },
-        {
-          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
-          "url": "https://wallstreetcn.com/livenews/3098259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时46分 ~ 18时05分]"
-        },
-        {
-          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 18时05分]"
-        },
-        {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 18时05分]"
-        },
-        {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
           "url": "https://wallstreetcn.com/livenews/3098166",
           "source": "华尔街见闻-快讯",
@@ -930,6 +1036,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时43分 ~ 07时43分]"
+        },
+        {
+          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
+          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 19时43分]"
         },
         {
           "title": "特朗普说从德国撤军人数将远超5000",
@@ -955,6 +1074,17 @@
           "time_info": "[00时47分 ~ 01时44分]"
         },
         {
+          "title": "伊朗战争丨伊朗革命卫队：特朗普的决策空间已经缩小",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
           "url": "https://flash.jin10.com/detail/20260503094347765800",
           "source": "金十数据",
@@ -965,6 +1095,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 14时08分]"
+        },
+        {
+          "title": "评论员：特朗普意外捣毁印度战略大计",
+          "url": "https://www.toutiao.com/trending/7635575579709804086/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
@@ -979,15 +1121,15 @@
           "time_info": "[10时53分 ~ 14时08分]"
         },
         {
-          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
-          "url": "https://www.toutiao.com/trending/7635573338844433930/",
-          "source": "今日头条",
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "特朗普再度对欧盟汽车下狠手，美欧贸易协定能否继续维持？",
@@ -1149,6 +1291,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "巴菲特场外访谈：市场赌博情绪空前，缺乏理想投资环境，等待没人接电话时，鲍威尔在更安心（附全文）",
+          "url": "https://wallstreetcn.com/articles/3771495",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 19时43分]"
+        },
+        {
           "title": "美联储古尔斯比：鲍威尔留任美联储理事的决定是他个人的选择。",
           "url": "https://flash.jin10.com/detail/20260503021747724800",
           "source": "金十数据",
@@ -1162,18 +1316,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时59分 ~ 07时43分]"
-        },
-        {
-          "title": "巴菲特场外访谈：市场赌博情绪空前，缺乏理想投资环境，等待没人接电话时，鲍威尔在更安心（附全文）",
-          "url": "https://wallstreetcn.com/articles/3771495",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 18时05分]"
         },
         {
           "title": "美国芝加哥联储主席Austan Goolsbee：（美联储在上周的会议上按8-4票将政策利率维持在3.5%-3.75%区间）这种存在分歧的决定显示了对货币政策路径提供“前瞻性指引”可能带来的复杂性，在这种情况下，三位支持该会议实际利率决策的官员也提出了异议。 既为鲍威尔能继续提供建议感到高兴，也对沃什的到来感到“兴奋”。 我非常喜欢（鲍威尔）。我很乐意看到他转任理事席位并留在那里。他一直很明智，且富有见地。 自己“很期待看到他（沃什）的到来，以及他将留下怎样的印记”。",
@@ -1215,11 +1357,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时46分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[16时46分 ~ 19时43分]"
         }
       ]
     },
@@ -1251,8 +1394,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 18时05分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时43分]"
         }
       ]
     },
