@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T16:47:07.114832+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-05-03T18:05:00.582081+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 16时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 18时05分]"
         },
         {
           "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
@@ -74,6 +74,18 @@
           "time_info": "[01时43分 ~ 07时43分]"
         },
         {
+          "title": "伊朗副外长：球在美国一边，做好两手准备",
+          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时43分 ~ 18时05分]"
+        },
+        {
           "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
           "url": "https://flash.jin10.com/detail/20260503012408499800",
           "source": "金十数据",
@@ -101,6 +113,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时47分 ~ 04时44分]"
+        },
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时05分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相向伊朗外长阿拉格齐强调，关闭霍尔木兹海峡或将其用作施压手段将导致危机加深。",
@@ -145,18 +169,6 @@
           "time_info": "[00时47分 ~ 03时57分]"
         },
         {
-          "title": "伊朗副外长：球在美国一边，做好两手准备",
-          "url": "https://news.ifeng.com/c/8soLPWxz4Pu",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时43分 ~ 16时47分]"
-        },
-        {
           "title": "伊朗外交部：必须抵制美国将“海盗行为”正常化",
           "url": "https://flash.jin10.com/detail/20260503040546472800",
           "source": "金十数据",
@@ -171,16 +183,80 @@
           "time_info": "[04时43分 ~ 10时53分]"
         },
         {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
+          "title": "伊朗最新提出14点终战提议",
+          "url": "https://www.toutiao.com/trending/7635059597182828607/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            3
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时05分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034041465198703020",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
+          "url": "https://flash.jin10.com/detail/20260503130748181800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗一超大型油轮“躲过”美海军追踪 正驶向印尼廖内群岛",
+          "url": "https://flash.jin10.com/detail/20260503124203115800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗官员：伊正在研究超过8条贸易替代通道或路线",
+          "url": "https://wallstreetcn.com/livenews/3098242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
+          "url": "https://wallstreetcn.com/livenews/3098241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
         },
         {
           "title": "伊媒曝伊朗提案的核心条件 伊要求30天内解决问题",
@@ -218,6 +294,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时43分]"
+        },
+        {
+          "title": "伊朗战争丨伊官员：正研究超过8条贸易替代通道",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗强化外交斡旋 与日本、意大利就地区局势与停火努力进行沟通",
+          "url": "https://flash.jin10.com/detail/20260503155952439800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗一超大型油轮“躲过”美海军追踪 正驶向印尼廖内群岛",
+          "url": "https://wallstreetcn.com/livenews/3098239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
         },
         {
           "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
@@ -258,27 +370,26 @@
           "time_info": "[10时53分 ~ 16时47分]"
         },
         {
-          "title": "伊朗强化外交斡旋 与日本、意大利就地区局势与停火努力进行沟通",
-          "url": "https://flash.jin10.com/detail/20260503155952439800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐向法国外长简要介绍了德黑兰的立场和旨在结束美以对伊朗施加的侵略战争的倡议。",
+          "url": "https://flash.jin10.com/detail/20260503170420108800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
-          "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
-          "url": "https://flash.jin10.com/detail/20260503130748181800",
-          "source": "金十数据",
+          "title": "伊朗驻巴基斯坦大使：伊美谈判新方案已经巴方转交美方",
+          "url": "https://wallstreetcn.com/livenews/3098263",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "伊朗媒体披露伊方最新谈判方案：14点提议 聚焦终战",
@@ -293,64 +404,64 @@
           "time_info": "[06时41分 ~ 10时53分]"
         },
         {
-          "title": "伊朗一超大型油轮“躲过”美海军追踪 正驶向印尼廖内群岛",
-          "url": "https://flash.jin10.com/detail/20260503124203115800",
+          "title": "伊朗高级官员披露伊美谈判最新细节：无最高领袖许可不得进行任何谈判",
+          "url": "https://flash.jin10.com/detail/20260503150817334800",
           "source": "金十数据",
           "ranks": [
-            3,
-            22
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗高级官员披露伊美谈判最新细节：无最高领袖许可不得进行任何谈判",
+          "url": "https://wallstreetcn.com/livenews/3098251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时05分]"
         },
         {
           "title": "伊朗官员：伊正在研究超过8条贸易替代通道或路线",
-          "url": "https://wallstreetcn.com/livenews/3098242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
-        },
-        {
-          "title": "伊朗最新提出14点终战提议",
-          "url": "https://www.toutiao.com/trending/7635059597182828607/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时47分]"
-        },
-        {
-          "title": "伊朗称美以军事袭击导致伊朗1489所学校和教育单位受损",
-          "url": "https://wallstreetcn.com/livenews/3098241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 65 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034041465198703020",
-          "source": "知乎",
+          "url": "https://flash.jin10.com/detail/20260503143401942800",
+          "source": "金十数据",
           "ranks": [
             14,
-            6
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时47分]"
+          "time_info": "[16时46分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡一切交通都必须获得伊朗许可",
+          "url": "https://flash.jin10.com/detail/20260503140855295800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡一切交通都必须获得伊朗许可",
+          "url": "https://wallstreetcn.com/livenews/3098245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时05分]"
         },
         {
           "title": "未爆弹药爆炸致伊朗革命卫队14人死亡",
@@ -366,17 +477,6 @@
           "time_info": "[04时43分 ~ 06时41分]"
         },
         {
-          "title": "伊朗战争丨伊官员：正研究超过8条贸易替代通道",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
-        },
-        {
           "title": "美媒称伊朗不要求直接谈判前解除霍尔木兹海峡封锁",
           "url": "https://wallstreetcn.com/livenews/3098228",
           "source": "华尔街见闻-快讯",
@@ -387,18 +487,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 14时08分]"
-        },
-        {
-          "title": "伊朗一超大型油轮“躲过”美海军追踪 正驶向印尼廖内群岛",
-          "url": "https://wallstreetcn.com/livenews/3098239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
         },
         {
           "title": "美国威胁制裁向伊朗缴通行费的航运企业",
@@ -424,28 +512,6 @@
           "time_info": "[06时41分 ~ 07时43分]"
         },
         {
-          "title": "伊朗高级官员披露伊美谈判最新细节：无最高领袖许可不得进行任何谈判",
-          "url": "https://flash.jin10.com/detail/20260503150817334800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
-        },
-        {
-          "title": "伊朗高级官员披露伊美谈判最新细节：无最高领袖许可不得进行任何谈判",
-          "url": "https://wallstreetcn.com/livenews/3098251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
-        },
-        {
           "title": "美学者称伊朗战争让所有人成输家",
           "url": "https://www.toutiao.com/trending/7634351083892064262/",
           "source": "今日头条",
@@ -456,17 +522,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 10时53分]"
-        },
-        {
-          "title": "伊朗官员：伊正在研究超过8条贸易替代通道或路线",
-          "url": "https://flash.jin10.com/detail/20260503143401942800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
         },
         {
           "title": "伊朗常驻联合国代表团：美国公然违反《不扩散核武器条约》",
@@ -481,26 +536,15 @@
           "time_info": "[10时53分 ~ 14时08分]"
         },
         {
-          "title": "伊朗称霍尔木兹海峡一切交通都必须获得伊朗许可",
-          "url": "https://flash.jin10.com/detail/20260503140855295800",
-          "source": "金十数据",
+          "title": "伊朗一超大型油轮躲过美海军追踪",
+          "url": "https://www.toutiao.com/trending/7635519583500173331/",
+          "source": "今日头条",
           "ranks": [
-            17
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡一切交通都必须获得伊朗许可",
-          "url": "https://wallstreetcn.com/livenews/3098245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "伊朗公布伊方最新谈判方案",
@@ -594,7 +638,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -614,11 +658,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 16时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 18时05分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -695,8 +740,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 16时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 18时05分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -707,8 +752,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 16时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时47分 ~ 18时05分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -734,6 +779,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时47分 ~ 10时53分]"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时05分]"
+        },
+        {
+          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
+          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
         },
         {
           "title": "特朗普政府新规生效后 超三百万人失去联邦食品援助",
@@ -802,26 +869,54 @@
           "time_info": "[04时43分 ~ 07时43分]"
         },
         {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
+        },
+        {
+          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
+          "url": "https://wallstreetcn.com/livenews/3098259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时47分]"
+          "time_info": "[16时46分 ~ 18时05分]"
         },
         {
-          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
-          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
-          "source": "凤凰网",
+          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            17,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
+        },
+        {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 18时05分]"
         },
         {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
@@ -837,27 +932,16 @@
           "time_info": "[04时43分 ~ 07时43分]"
         },
         {
-          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
-          "url": "https://wallstreetcn.com/livenews/3098259",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普说从德国撤军人数将远超5000",
+          "url": "https://flash.jin10.com/detail/20260503133536402800",
+          "source": "金十数据",
           "ranks": [
-            3
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
-        },
-        {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时05分]"
         },
         {
           "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
@@ -869,30 +953,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 01时44分]"
-        },
-        {
-          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
-        },
-        {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时47分]"
         },
         {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
@@ -919,15 +979,37 @@
           "time_info": "[10时53分 ~ 14时08分]"
         },
         {
-          "title": "特朗普说从德国撤军人数将远超5000",
-          "url": "https://flash.jin10.com/detail/20260503133536402800",
-          "source": "金十数据",
+          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
+          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "source": "今日头条",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "特朗普再度对欧盟汽车下狠手，美欧贸易协定能否继续维持？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092743",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "特朗普发赤裸上身和万斯等人泡澡AI照",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E5%92%8C%E4%B8%87%E6%96%AF%E7%AD%89%E4%BA%BA%E6%B3%A1%E6%BE%A1AI%E7%85%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "伊朗战争丨伊方公布最新谈判方案，特朗普回应",
@@ -1090,8 +1172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时05分]"
         },
         {
           "title": "美国芝加哥联储主席Austan Goolsbee：（美联储在上周的会议上按8-4票将政策利率维持在3.5%-3.75%区间）这种存在分歧的决定显示了对货币政策路径提供“前瞻性指引”可能带来的复杂性，在这种情况下，三位支持该会议实际利率决策的官员也提出了异议。 既为鲍威尔能继续提供建议感到高兴，也对沃什的到来感到“兴奋”。 我非常喜欢（鲍威尔）。我很乐意看到他转任理事席位并留在那里。他一直很明智，且富有见地。 自己“很期待看到他（沃什）的到来，以及他将留下怎样的印记”。",
@@ -1132,11 +1214,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[16时46分 ~ 18时05分]"
         }
       ]
     },
@@ -1168,8 +1251,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 16时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时47分 ~ 18时05分]"
         }
       ]
     },
@@ -1188,6 +1271,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 01时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一周展望：美伊又到抉择时刻！非农难助金价破局，日本黄金周藏杀机！",
+          "url": "https://flash.jin10.com/detail/20260503172004371800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         }
       ]
     },
