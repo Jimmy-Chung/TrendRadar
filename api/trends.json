@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:33:59.488843+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-05-20T20:25:16.951555+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时01分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 20时25分]"
         },
         {
           "title": "美国副总统万斯：无论总统特朗普作何决定，伊朗战争都不可能永远持续下去。",
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "美媒：特朗普或在生日期间出席法国G7峰会",
@@ -302,6 +303,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "美国国务卿鲁比奥：美国总统特朗普准备开启美古新关系。",
+          "url": "https://flash.jin10.com/detail/20260520200507967800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "白宫：美国总统特朗普签署行政命令，旨在保护美国金融系统免受非法活动的影响。",
           "url": "https://flash.jin10.com/detail/20260520053143326800",
           "source": "金十数据",
@@ -322,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）他们不会拥有核武器。",
@@ -440,7 +463,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
@@ -448,7 +471,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -472,6 +495,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时50分]"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时25分]"
         },
         {
           "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
@@ -561,21 +596,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
         {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 20时25分]"
         },
         {
           "title": "周二（5月19日），美股行业ETF多数收跌，航空业ETF收跌2.90%，金融业ETF、网络股指数ETF、可选消费ETF跌1.11%，半导体ETF跌0.4%，医疗业ETF涨1.1%，能源业ETF涨1.17%。",
@@ -588,6 +623,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时16分]"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时25分]"
         },
         {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
@@ -614,15 +661,16 @@
           "time_info": "[03时01分 ~ 06时16分]"
         },
         {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 20时25分]"
         },
         {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
@@ -691,17 +739,6 @@
           "time_info": "[00时21分 ~ 03时02分]"
         },
         {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "美债收益率引爆新压力，沃什还没上任就被“围剿”？特朗普改口留后路",
           "url": "https://flash.jin10.com/detail/20260520073855509800",
           "source": "金十数据",
@@ -724,6 +761,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
           "url": "https://wallstreetcn.com/articles/3772572",
           "source": "华尔街见闻",
@@ -735,24 +783,13 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "抛盘狂砸1小时！美债惊现“投降式”交易：30年期收益率创19年新高",
           "url": "https://www.cls.cn/detail/2376210",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -774,7 +811,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -796,7 +833,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -815,7 +852,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -897,7 +934,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -908,7 +945,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -922,6 +959,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "韩国周三与伊朗伊斯兰革命卫队就穿越海峡进行了协调。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 20时25分]"
         },
         {
           "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
@@ -979,17 +1038,6 @@
           "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "伊朗驻墨西哥大使：伊朗视墨西哥为拉美友好、有影响力且重要的国家，并特别重视全面扩大各领域的双边关系。",
           "url": "https://flash.jin10.com/detail/20260519235242668800",
           "source": "金十数据",
@@ -1040,7 +1088,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1100,6 +1148,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "伊朗总统称战争期间能源生产供应未中断",
+          "url": "https://wallstreetcn.com/livenews/3106701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：实现人口增长是有必要的，通过坚定推行正确的人口增长政策，伊朗民族将能够在未来发挥重要作用，实现战略性的飞跃，并为创建伊朗新文明迈出坚实步伐。",
           "url": "https://flash.jin10.com/detail/20260519233458115800",
           "source": "金十数据",
@@ -1122,6 +1181,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "据伊朗电视台：韩国周三与伊朗伊斯兰革命卫队就穿越海峡进行了协调。",
+          "url": "https://flash.jin10.com/detail/20260520195927813800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
           "url": "https://wallstreetcn.com/livenews/3106242",
           "source": "华尔街见闻-快讯",
@@ -1139,7 +1209,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1158,7 +1228,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -1174,6 +1244,18 @@
           "time_info": "[00时21分 ~ 08时06分]"
         },
         {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时06分 ~ 20时25分]"
+        },
+        {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
           "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
@@ -1185,18 +1267,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时01分 ~ 13时05分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 17时33分]"
         },
         {
           "title": "谷歌展示Google Flow Music。",
@@ -1231,6 +1301,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时16分]"
+        },
+        {
+          "title": "对谈谷歌开发者社区核心成员",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%B0%88%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -1523,7 +1604,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
