@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T13:15:18.044194+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-05-27T17:45:38.656634+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -136,15 +136,38 @@
           "time_info": "[02时25分 ~ 02时26分]"
         },
         {
+          "title": "伊朗情报部说敌方正通过软战争施压",
+          "url": "https://wallstreetcn.com/livenews/3110002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "伊朗大不里士国际机场恢复运营",
           "url": "https://flash.jin10.com/detail/20260527125126650800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 17时45分]"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
@@ -257,24 +280,24 @@
           "time_info": "08时04分"
         },
         {
+          "title": "韩国称霍尔木兹海峡船只遇袭事件可能涉及伊朗导弹",
+          "url": "https://flash.jin10.com/detail/20260527172828121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
           "url": "https://wallstreetcn.com/livenews/3109828",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -290,15 +313,48 @@
           "time_info": "04时53分"
         },
         {
+          "title": "伊朗官员：最终与美国签署的协议必定符合伊朗国家利益",
+          "url": "https://wallstreetcn.com/livenews/3109980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
           "url": "https://flash.jin10.com/detail/20260527121045082800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "伊朗副安全事务负责人巴盖里：伊朗与美国之间的间接沟通仍在继续",
+          "url": "https://flash.jin10.com/detail/20260527171941982800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "美联储卡什卡利：旷日持久的伊朗战争可能引发美国“一系列”加息",
@@ -335,11 +391,24 @@
           "ranks": [
             17,
             16,
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时25分 ~ 13时15分]"
+          "appearance_count": 9,
+          "time_info": "[02时25分 ~ 17时45分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 17时45分]"
         },
         {
           "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
@@ -365,16 +434,16 @@
           "time_info": "[06时19分 ~ 06时20分]"
         },
         {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            6,
-            1
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时15分]"
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 17时45分]"
         },
         {
           "title": "特朗普：内阁会议将由戴维营改至白宫举行",
@@ -398,17 +467,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时19分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普对关税豁免计划不感兴趣。",
@@ -582,7 +640,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -816,6 +874,36 @@
       ]
     },
     {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
+          "url": "https://wallstreetcn.com/articles/3773158",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 17时45分]"
+        },
+        {
+          "title": "【Q1全球DRAM市占排名：三星继续领跑 长鑫存储份额升至7.7%】据CFM闪存市场数据显示，三星一季度DRAM销售收入达382.14亿美元，环比增长98.4%，市场份额为40.5%，进一步拉大和其他供应商的份额差距，排名第一；SK海力士一季度DRAM销售收入达279.25亿美元，因其HBM供应占比较多，总收入环比增长62.1%低于其他供应商，市场份额为29.6%，排名第二；美光一季度（2025年12月-2026年2月）DRAM销售收入达187.68亿美元，环比增长73.6%，市场份额19.9%，排名第三；长鑫存储一季度DRAM销售收入达73.09亿美元，环比增长115.1%，市场份额进一步提升至7.7%，排名第四。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3110001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -829,6 +917,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 08时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：ELEMENTAL IMPACT与亚马逊、谷歌、Meta公司和微软共同启动数据中心创新计划。",
+          "url": "https://flash.jin10.com/detail/20260527173132501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "研究数学是否建议购买 chatGPT pro ？",
+          "url": "https://www.zhihu.com/question/2039945525546456777",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
@@ -851,20 +973,36 @@
       ]
     },
     {
-      "keyword_group": "NAND HBM 内存",
+      "keyword_group": "阿里巴巴 美团",
       "match_count": 1,
       "titles": [
         {
-          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
-          "url": "https://wallstreetcn.com/articles/3773158",
-          "source": "华尔街见闻",
+          "title": "南向资金今日大幅净卖出77.17亿元。港股通（沪）方面，阿里巴巴-W、华虹半导体分别获净卖出6.15亿港元、3.95亿港元；中国海洋石油净买入额居首，金额为8.8亿港元；港股通（深）方面，盈富基金、南方恒生科技分别获净卖出18.28亿港元、13.92亿港元；中芯国际净买入额居首，金额为14.02亿港元。",
+          "url": "https://flash.jin10.com/detail/20260527173119121800",
+          "source": "金十数据",
           "ranks": [
-            8,
             7
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 13时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "泡泡玛特",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待段永平称「泡泡玛特王宁的商业理解能力，比乔布斯还强」？",
+          "url": "https://www.zhihu.com/question/2042903393052485561",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     }
