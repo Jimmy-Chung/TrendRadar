@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:39:25.738480+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-08-04T19:18:24.058182+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 15时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 19时18分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -124,18 +124,6 @@
           "time_info": "03时36分"
         },
         {
-          "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
-          "url": "https://www.cls.cn/detail/2444679",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 15时39分]"
-        },
-        {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
           "source": "澎湃新闻",
@@ -144,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 19时18分]"
         },
         {
           "title": "美媒：因凡蒂诺向特朗普求助",
@@ -154,6 +142,18 @@
           "ranks": [
             8,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 19时18分]"
+        },
+        {
+          "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
+          "url": "https://www.cls.cn/detail/2444679",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -238,6 +238,17 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "特朗普称“正在谈判”，霍尔木兹可能明天就重开！伊朗打脸：根本没谈",
           "url": "https://flash.jin10.com/detail/20260804065528410800",
           "source": "金十数据",
@@ -266,7 +277,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -365,7 +376,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -494,7 +505,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -532,6 +543,17 @@
           "time_info": "[05时02分 ~ 08时14分]"
         },
         {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，伊朗外交部长即将访问伊斯兰堡。",
           "url": "https://flash.jin10.com/detail/20260804031747278800",
           "source": "金十数据",
@@ -541,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
+          "url": "https://news.ifeng.com/c/8vJk4CzK9iC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：我们没有攻击任何美国公民，但美国攻击了我们的国家。世界绝大多数国家都会说，美国是一个好战国家。",
@@ -651,7 +684,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -684,7 +717,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -698,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "报道：美国陆军在与伊朗的冲突中“几乎耗尽”了所有远程精确导弹",
+          "url": "https://wallstreetcn.com/livenews/3144684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "据伊朗媒体：伊朗最高领袖军事顾问穆赫辛·雷扎伊表示，伊朗原本准备对乌克兰的三个目标发起攻击，但在乌克兰道歉后取消了攻击。",
@@ -739,9 +783,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "伊朗领袖顾问称美军决策水平大滑坡",
+          "url": "https://wallstreetcn.com/livenews/3144678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
@@ -761,7 +816,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -783,7 +838,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -857,8 +912,20 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 19时18分]"
+        },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
           "url": "https://wallstreetcn.com/articles/3778526",
@@ -881,18 +948,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时08分 ~ 08时14分]"
-        },
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 15时39分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -920,6 +975,18 @@
           "time_info": "[07时01分 ~ 12时14分]"
         },
         {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 19时18分]"
+        },
+        {
           "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
           "url": "https://flash.jin10.com/detail/20260804113530933800",
           "source": "金十数据",
@@ -931,6 +998,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "辉瑞第二季度营收150.3亿美元，预估144.1亿美元。 第二季度调整后每股收益0.77美元。 第二季度ELIQUIS收入 24.3亿美元，预估20.9亿美元。 第二季度PREVNAR特许费收入 13.4亿美元。 辉瑞预计全年营收605亿美元至625亿美元，市场预估617.6亿美元。 辉瑞美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3144692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美股三大指数集体收涨 纳指涨逾2%",
           "url": "https://www.toutiao.com/trending/7669943981744066086/",
           "source": "今日头条",
@@ -940,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
-        },
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
@@ -1104,6 +1171,28 @@
           "time_info": "07时01分"
         },
         {
+          "title": "卡特彼勒公司第二季度营收205.4亿美元，同比增长24%，预估190.1亿美元。 第二季度每股收益7.77美元，上年同期4.62美元。 第二季度调整后每股收益8.17美元，预估6.17美元。 卡特彼勒美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3144682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "美股盘前光通信股拉升，Coherent涨超15%，Lumentum涨近12%，康宁涨超9%，Credo涨近10%，迈威尔科技涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3144681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美股收盘：道指创收盘新高 纳指涨超2%",
           "url": "https://flash.jin10.com/detail/20260804040116965800",
           "source": "金十数据",
@@ -1137,6 +1226,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3144672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美股期货走高，纳斯达克100指数期货上涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3144458",
           "source": "华尔街见闻-快讯",
@@ -1151,7 +1251,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -1252,11 +1352,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 19时18分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -1270,13 +1371,24 @@
           "time_info": "12时14分"
         },
         {
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "Codex直连DeepSeek堪称国模之王",
           "url": "https://s.weibo.com/weibo?q=Codex%E7%9B%B4%E8%BF%9EDeepSeek%E5%A0%AA%E7%A7%B0%E5%9B%BD%E6%A8%A1%E4%B9%8B%E7%8E%8B&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -1298,7 +1410,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -1312,12 +1424,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -1327,11 +1450,12 @@
             8,
             9,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 19时18分]"
         },
         {
           "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
@@ -1410,6 +1534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "OpenAI与私募股权公司Clearlake Capital合作，加速人工智能在Clearlake投资组合中的采用。",
+          "url": "https://flash.jin10.com/detail/20260804190206170800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
@@ -1604,7 +1739,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
