@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T18:33:16.435601+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-08-08T19:29:09.378339+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "是否将辞职？伊朗总统最新发声",
@@ -37,11 +37,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 18时33分]"
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 19时29分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -91,55 +92,36 @@
           "ranks": [
             2,
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时33分]"
-        },
-        {
-          "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
-          "url": "https://flash.jin10.com/detail/20260808181945934800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
           "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时29分]"
         },
         {
           "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
           "url": "https://wallstreetcn.com/livenews/3146991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
-          "url": "https://wallstreetcn.com/livenews/3146989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时29分]"
         },
         {
           "title": "曝美军高层寻找摆脱伊朗战事的途径",
@@ -148,11 +130,12 @@
           "ranks": [
             7,
             12,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
@@ -161,11 +144,12 @@
           "ranks": [
             7,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
@@ -175,8 +159,99 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时29分]"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时33分]"
+          "time_info": "[18时32分 ~ 19时29分]"
+        },
+        {
+          "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
+          "url": "https://flash.jin10.com/detail/20260808181945934800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时29分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
+          "title": "阿联酋外交部：将霍尔木兹海峡作为施压或勒索的工具是伊朗革命卫队的海盗行为。",
+          "url": "https://flash.jin10.com/detail/20260808184619844800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
+          "title": "阿联酋外交部：我们强烈谴责伊朗对阿布扎比国家石油公司（ADNOC）油轮进行袭击。",
+          "url": "https://flash.jin10.com/detail/20260808184608286800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
+          "title": "伊朗：同阿曼的谈判与霍尔木兹海峡能否重开无关",
+          "url": "https://flash.jin10.com/detail/20260808184038506800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
+        },
+        {
+          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，巴格达正与伊朗进行谈判，以允许伊拉克石油出口，但相关安排尚未生效。",
+          "url": "https://flash.jin10.com/detail/20260808174542910800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时29分]"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -248,15 +323,15 @@
           "time_info": "[04时40分 ~ 07时34分]"
         },
         {
-          "title": "据伊拉克国家通讯社：伊拉克石油部长表示，巴格达正与伊朗进行谈判，以允许伊拉克石油出口，但相关安排尚未生效。",
-          "url": "https://flash.jin10.com/detail/20260808174542910800",
-          "source": "金十数据",
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医",
@@ -376,7 +451,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -399,11 +474,12 @@
             7,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时57分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时57分 ~ 19时29分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -418,8 +494,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时40分 ~ 18时33分]"
+          "appearance_count": 18,
+          "time_info": "[04时40分 ~ 19时29分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -445,6 +521,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时40分 ~ 09时29分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时29分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -493,6 +582,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时49分 ~ 05时38分]"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时29分]"
         },
         {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
@@ -553,27 +653,15 @@
           "time_info": "01时49分"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
+          "url": "https://flash.jin10.com/detail/20260808183100642800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时33分]"
-        },
-        {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
@@ -749,8 +837,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时33分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 19时29分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -764,8 +852,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时49分 ~ 18时33分]"
+          "appearance_count": 20,
+          "time_info": "[01时49分 ~ 19时29分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -779,8 +867,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时34分 ~ 18时33分]"
+          "appearance_count": 16,
+          "time_info": "[06时34分 ~ 19时29分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -816,6 +904,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时40分 ~ 09时29分]"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9,
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -865,19 +967,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时40分 ~ 09时29分]"
-        },
-        {
-          "title": "李大霄谈美股三大指数高开",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时33分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -954,8 +1043,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时33分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 19时29分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -966,11 +1055,12 @@
             14,
             12,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时40分 ~ 18时33分]"
+          "appearance_count": 18,
+          "time_info": "[04时40分 ~ 19时29分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -1024,7 +1114,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
@@ -1051,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 13时43分]"
+        },
+        {
+          "title": "黄金价格走势或反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "油价金价银价都涨了",
@@ -1109,11 +1210,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时33分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时29分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.77%，报6620.75点，本周累计上涨0.34%，持续测试100日均线（该技术指标下移至6569.75点）。 热门中概股里，再鼎医药初步收涨12.2%，大全新能源涨8.8%，晶科能源涨6%，世纪互联涨5%，腾讯涨1.8%，拼多多、阿里巴巴涨超1%，日月光半导体大致持平。 XtrackersHarvest中证50（ASHS）收涨2.76%，本周累涨7.28%，此前两周先后反弹0.27%、0.05%； 中国科技指数ETF（CQQQ）收涨1.72%，本周累涨5.53%，延续上周反弹0.84%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨1.18%，本周反弹2.69%； 中概互联网指数ETF（KWEB）收涨0.99%，本周涨0.60%，延续上周涨8.37%的表现，周线图上7月初以来持续反弹； MSCI新兴市场ex中国ETF（EMXC）收涨0.83%，本周累涨2.82%。",
@@ -1145,11 +1247,12 @@
             23,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时49分 ~ 18时33分]"
+          "appearance_count": 16,
+          "time_info": "[01时49分 ~ 19时29分]"
         }
       ]
     },
@@ -1184,8 +1287,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 19时29分]"
         }
       ]
     },
