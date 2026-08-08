@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-08T09:29:12.791306+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-08-08T11:25:46.762033+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时40分 ~ 09时29分]"
-        },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
@@ -26,7 +14,20 @@
           "ranks": [
             20,
             16,
-            15
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时40分 ~ 11时25分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -47,22 +48,23 @@
           "time_info": "[05时38分 ~ 09时29分]"
         },
         {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时25分]"
+        },
+        {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
           "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -127,6 +129,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "哈塞特称特朗普与沃什经常讨论经济问题",
           "url": "https://flash.jin10.com/detail/20260808011630958800",
           "source": "金十数据",
@@ -142,11 +155,12 @@
           "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时25分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -195,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时38分]"
+        },
+        {
+          "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
+          "url": "https://wallstreetcn.com/articles/3778955",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
@@ -277,7 +302,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -307,11 +332,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 11时25分]"
         },
         {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
@@ -334,6 +360,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时34分]"
+        },
+        {
+          "title": "是否将辞职？伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
@@ -489,8 +526,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 09时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时49分 ~ 11时25分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -539,6 +576,18 @@
           "time_info": "[01时49分 ~ 05时38分]"
         },
         {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时34分 ~ 11时25分]"
+        },
+        {
           "title": "美股存储板块集体大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
@@ -577,16 +626,16 @@
           "time_info": "[04时40分 ~ 09时29分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时25分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -598,17 +647,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时55分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -664,6 +702,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时40分 ~ 11时25分]"
+        },
+        {
           "title": "梁文锋 只想用座机",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
           "source": "百度热搜",
@@ -677,19 +728,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时49分 ~ 07时34分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时40分 ~ 09时29分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -707,11 +745,12 @@
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时25分]"
         }
       ]
     },
@@ -725,11 +764,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 11时25分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -746,26 +786,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 09时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
@@ -780,6 +802,53 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时38分 ~ 09时29分]"
+        },
+        {
+          "title": "油价金价银价都涨了",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时49分 ~ 11时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
+          "url": "https://flash.jin10.com/detail/20260808100104329800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
