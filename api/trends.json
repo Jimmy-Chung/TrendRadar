@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T21:03:08.508530+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-08-11T22:58:07.374759+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[09时41分 ~ 22时58分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时44分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 22时58分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[09时41分 ~ 22时58分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -167,6 +167,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 04时42分]"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时58分]"
         },
         {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
@@ -295,6 +307,17 @@
           "time_info": "[09时41分 ~ 13时08分]"
         },
         {
+          "title": "伊朗外交部：巴基斯坦内政部长与伊朗外长阿拉格齐举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260811222206746800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
           "url": "https://flash.jin10.com/detail/20260810233716507800",
           "source": "金十数据",
@@ -304,6 +327,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "伊朗天然气日产能9月有望回升近1亿立方米",
+          "url": "https://flash.jin10.com/detail/20260811221953945800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
@@ -372,6 +406,17 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
+          "title": "美官员称美军向一艘与伊朗有关的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3148109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：我将竭尽全力增强伊朗的实力。",
           "url": "https://flash.jin10.com/detail/20260811202847518800",
           "source": "金十数据",
@@ -404,17 +449,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
-        },
-        {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
@@ -504,6 +538,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "报道：巴基斯坦内政部长将于数小时内抵达伊朗举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3148092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
@@ -664,7 +709,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -703,6 +748,17 @@
           "time_info": "[00时02分 ~ 09时41分]"
         },
         {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时55分 ~ 22时58分]"
+        },
+        {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
           "url": "https://wallstreetcn.com/articles/3779107",
           "source": "华尔街见闻",
@@ -713,8 +769,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[09时41分 ~ 22时58分]"
         },
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -738,17 +794,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 07时35分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 21时03分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -799,6 +844,17 @@
           "time_info": "[01时51分 ~ 03时56分]"
         },
         {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时58分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -809,17 +865,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时41分 ~ 13时08分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "特朗普否认华尔街日报关于他与沃什谈话的报道，称：我非常尊重美联储主席沃什。 几天前还曾与沃什短暂对话过一次。 自从沃什接任美联储主席以来，和他谈过一次。",
@@ -1092,6 +1137,50 @@
           "time_info": "[06时37分 ~ 07时35分]"
         },
         {
+          "title": "特朗普：我们可以动用“强大力量”打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260811221039853800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，美国不缺导弹弹药。",
+          "url": "https://flash.jin10.com/detail/20260811220935201800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，美国控制着伊朗的资金，并对其拥有完全的控制权。",
+          "url": "https://flash.jin10.com/detail/20260811220920704800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，美国可以动用“强大力量”打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260811220836933800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
           "url": "https://wallstreetcn.com/livenews/3147809",
           "source": "华尔街见闻-快讯",
@@ -1115,6 +1204,17 @@
           "time_info": "[03时55分 ~ 03时56分]"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，伊朗通货膨胀率高达300%，其货币一文不值。",
+          "url": "https://flash.jin10.com/detail/20260811220750639800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们仍然有能力升级（战争）。美国将要求伊朗赔偿造成的损失。",
           "url": "https://flash.jin10.com/detail/20260811032458578800",
           "source": "金十数据",
@@ -1126,6 +1226,17 @@
           "time_info": "[03时55分 ~ 03时56分]"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，伊朗人不支付士兵的工资。",
+          "url": "https://flash.jin10.com/detail/20260811220729316800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
           "url": "https://flash.jin10.com/detail/20260811003934129800",
           "source": "金十数据",
@@ -1135,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，伊朗人是非常狡猾的谈判者。",
+          "url": "https://flash.jin10.com/detail/20260811220543484800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
@@ -1159,6 +1281,17 @@
           "time_info": "[02时56分 ~ 02时57分]"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，美国弹药短缺的原因是乔·拜登向乌克兰提供了3000亿美元的援助。",
+          "url": "https://flash.jin10.com/detail/20260811220429640800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普：将赔偿问题纳入未来的谈判",
           "url": "https://wallstreetcn.com/livenews/3147619",
           "source": "华尔街见闻-快讯",
@@ -1168,6 +1301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普谈及伊朗时表示，“如果我没有那样做，他们现在就已经拥有核武器了，而你们现在就要称呼他们为‘先生’了。”",
+          "url": "https://flash.jin10.com/detail/20260811220134990800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "特朗普政府撤销超17.5万份外国人签证",
@@ -1228,7 +1372,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1238,8 +1382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[09时41分 ~ 22时58分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -1349,6 +1493,17 @@
           "time_info": "[04时42分 ~ 06时37分]"
         },
         {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
@@ -1358,6 +1513,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
@@ -1382,6 +1548,17 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超1%，公用事业ETF、全球航空业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260811004202641800",
           "source": "金十数据",
@@ -1391,6 +1568,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，英伟达涨约2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3148099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
@@ -1413,6 +1601,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "瑞士央行的美股持仓创新高 前三大持股为英伟达、苹果和微软",
+          "url": "https://wallstreetcn.com/livenews/3148091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "英伟达美股盘前涨近2%，报道称英伟达正在开发开源AI模型Nemotron 4",
+          "url": "https://wallstreetcn.com/livenews/3148090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "美股情绪指标拉响2018年以来最强警报！富国银行：CPI前赶紧加对冲",
@@ -1683,6 +1893,72 @@
       ]
     },
     {
+      "keyword_group": "NAND HBM 内存",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "硬盘、内存价格还会降回去吗？",
+          "url": "https://www.zhihu.com/question/2011092640041570925",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时35分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟将中国工厂NAND产能提高50%",
+          "url": "https://wallstreetcn.com/articles/3779186",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
+          "url": "https://flash.jin10.com/detail/20260811055637856800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
+          "title": "SK海力士将在中国的NAND产能提高50%。（首尔经济日报）",
+          "url": "https://wallstreetcn.com/livenews/3147991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
+          "title": "AI服务器抢内存为何要买手机的人买单",
+          "url": "https://www.toutiao.com/trending/7672398009455349311/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1731,61 +2007,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "NAND HBM 内存",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "硬盘、内存价格还会降回去吗？",
-          "url": "https://www.zhihu.com/question/2011092640041570925",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            13,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时35分]"
-        },
-        {
-          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
-          "url": "https://flash.jin10.com/detail/20260811055637856800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时35分]"
-        },
-        {
-          "title": "SK海力士将在中国的NAND产能提高50%。（首尔经济日报）",
-          "url": "https://wallstreetcn.com/livenews/3147991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
-          "title": "AI服务器抢内存为何要买手机的人买单",
-          "url": "https://www.toutiao.com/trending/7672398009455349311/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         }
       ]
     },
@@ -1930,8 +2151,19 @@
     },
     {
       "keyword_group": "SOFR",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "据美国纽约联储数据，上个交易日（8月10日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3148113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
         {
           "title": "SOFR期权市场出现对2026年12月和2027年3月美联储降息押注的需求",
           "url": "https://wallstreetcn.com/livenews/3147579",
