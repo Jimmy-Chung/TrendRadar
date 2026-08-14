@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T19:05:25.875793+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-08-14T21:05:13.695020+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,29 @@
           "time_info": "[03时02分 ~ 04时42分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时13分 ~ 21时05分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时05分]"
+        },
+        {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
           "url": "https://flash.jin10.com/detail/20260814040533982800",
           "source": "金十数据",
@@ -77,17 +100,6 @@
           "time_info": "[14时13分 ~ 14时14分]"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
           "title": "以色列发警报迫使特朗普换机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时52分 ~ 14时14分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 19时05分]"
         },
         {
           "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -193,7 +194,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -371,6 +372,20 @@
           "time_info": "[03时02分 ~ 19时05分]"
         },
         {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时03分 ~ 21时05分]"
+        },
+        {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
@@ -393,19 +408,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时02分 ~ 09时52分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时03分 ~ 19时05分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -437,6 +439,20 @@
           "time_info": "[03时02分 ~ 09时52分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 21时05分]"
+        },
+        {
           "title": "DeepSeek API确认涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -459,6 +475,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时02分 ~ 07时40分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 21时05分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -521,32 +551,6 @@
           "time_info": "[09时52分 ~ 14时14分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 19时05分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 19时05分]"
-        },
-        {
           "title": "如何看待 Deepseek Harness 发布？",
           "url": "https://www.zhihu.com/question/2071331484284220938",
           "source": "知乎",
@@ -598,7 +602,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -639,7 +643,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -865,6 +869,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3149735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
           "url": "https://wallstreetcn.com/livenews/3149312",
           "source": "华尔街见闻-快讯",
@@ -879,7 +894,7 @@
     },
     {
       "keyword_group": "美债 美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -930,6 +945,18 @@
           "time_info": "[06时41分 ~ 14时14分]"
         },
         {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时13分 ~ 21时05分]"
+        },
+        {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260814040642401800",
           "source": "金十数据",
@@ -965,16 +992,15 @@
           "time_info": "[04时41分 ~ 07时40分]"
         },
         {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 19时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
@@ -1028,7 +1054,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -1061,6 +1087,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时05分]"
+        },
+        {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
           "url": "https://wallstreetcn.com/livenews/3149336",
           "source": "华尔街见闻-快讯",
@@ -1082,17 +1119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时03分]"
-        },
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
         },
         {
           "title": "据悉OpenAI年化营收突破400亿美元",
@@ -1134,7 +1160,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         }
@@ -1213,6 +1239,46 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
+        {
+          "title": "美元指数13日下跌",
+          "url": "https://flash.jin10.com/detail/20260814032112550800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时42分]"
+        },
+        {
+          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
+          "url": "https://wallstreetcn.com/livenews/3149294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时42分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里巴巴 美团",
       "match_count": 3,
       "titles": [
@@ -1245,37 +1311,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数13日下跌",
-          "url": "https://flash.jin10.com/detail/20260814032112550800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 04时42分]"
-        },
-        {
-          "title": "周四（8月13日）纽约尾盘，ICE美元指数下跌0.05%，报99.964点，日内交投区间为99.672-99.972点。 彭博美元指数跌0.05%，报1203.75点。",
-          "url": "https://wallstreetcn.com/livenews/3149294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 04时42分]"
         }
       ]
     },
